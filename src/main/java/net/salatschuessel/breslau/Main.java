@@ -1,14 +1,14 @@
-package net.salatschuessel.net.breslau;
+package net.salatschuessel.breslau;
 
 import java.io.File;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.List;
 
-import net.salatschuessel.net.breslau.model.Register;
-import net.salatschuessel.net.breslau.service.JsonFileService;
-import net.salatschuessel.net.breslau.service.TableCreatorService;
-import net.salatschuessel.net.breslau.service.UserInputService;
+import net.salatschuessel.breslau.model.Register;
+import net.salatschuessel.breslau.service.JsonFileService;
+import net.salatschuessel.breslau.service.TableCreatorService;
+import net.salatschuessel.breslau.service.UserInputService;
 
 public class Main {
 

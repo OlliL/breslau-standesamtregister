@@ -1,4 +1,4 @@
-package net.salatschuessel.net.breslau.service;
+package net.salatschuessel.breslau.service;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,8 +8,8 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 
-import net.salatschuessel.net.breslau.model.Register;
-import net.salatschuessel.net.breslau.model.RegisterFile;
+import net.salatschuessel.breslau.model.Register;
+import net.salatschuessel.breslau.model.RegisterFile;
 
 public class UserInputService {
 	private static DateTimeFormatter formatter = DateTimeFormatter.ofPattern("ddMMyyyy");

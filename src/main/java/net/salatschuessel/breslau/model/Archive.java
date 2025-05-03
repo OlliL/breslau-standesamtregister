@@ -1,4 +1,4 @@
-package net.salatschuessel.net.breslau.model;
+package net.salatschuessel.breslau.model;
 
 public enum Archive {
 	STAATSARCHIV_BRESLAU("Staatsarchiv Breslau"),

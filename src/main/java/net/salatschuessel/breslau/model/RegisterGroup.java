@@ -1,4 +1,4 @@
-package net.salatschuessel.net.breslau.model;
+package net.salatschuessel.breslau.model;
 
 import java.util.Objects;
 

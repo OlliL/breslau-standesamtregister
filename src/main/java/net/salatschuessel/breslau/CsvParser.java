@@ -1,4 +1,4 @@
-package net.salatschuessel.net.breslau;
+package net.salatschuessel.breslau;
 
 import java.io.File;
 import java.io.FileReader;
@@ -18,11 +18,11 @@ import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
 import com.opencsv.exceptions.CsvException;
 
-import net.salatschuessel.net.breslau.model.Archive;
-import net.salatschuessel.net.breslau.model.Register;
-import net.salatschuessel.net.breslau.service.JsonFileService;
-import net.salatschuessel.net.breslau.service.TableCreatorService;
-import net.salatschuessel.net.breslau.service.UserInputService;
+import net.salatschuessel.breslau.model.Archive;
+import net.salatschuessel.breslau.model.Register;
+import net.salatschuessel.breslau.service.JsonFileService;
+import net.salatschuessel.breslau.service.TableCreatorService;
+import net.salatschuessel.breslau.service.UserInputService;
 
 public class CsvParser {
 

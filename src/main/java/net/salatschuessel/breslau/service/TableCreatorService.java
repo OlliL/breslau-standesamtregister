@@ -1,4 +1,4 @@
-package net.salatschuessel.net.breslau.service;
+package net.salatschuessel.breslau.service;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -8,10 +8,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-import net.salatschuessel.net.breslau.model.Archive;
-import net.salatschuessel.net.breslau.model.Register;
-import net.salatschuessel.net.breslau.model.RegisterFile;
-import net.salatschuessel.net.breslau.model.RegisterGroup;
+import net.salatschuessel.breslau.model.Archive;
+import net.salatschuessel.breslau.model.Register;
+import net.salatschuessel.breslau.model.RegisterFile;
+import net.salatschuessel.breslau.model.RegisterGroup;
 
 public class TableCreatorService {
 	private static DateTimeFormatter formatterWiki = DateTimeFormatter.ofPattern("dd.MM.");

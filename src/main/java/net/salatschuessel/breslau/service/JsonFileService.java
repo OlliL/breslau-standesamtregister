@@ -1,4 +1,4 @@
-package net.salatschuessel.net.breslau.service;
+package net.salatschuessel.breslau.service;
 
 import java.io.File;
 import java.io.IOException;
@@ -14,7 +14,7 @@ import com.fasterxml.jackson.databind.cfg.ConstructorDetector;
 import com.fasterxml.jackson.databind.json.JsonMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 
-import net.salatschuessel.net.breslau.model.Register;
+import net.salatschuessel.breslau.model.Register;
 
 public class JsonFileService {
 
