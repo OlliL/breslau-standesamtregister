@@ -1,5 +1,5 @@
 {| class="wikitable" style="text-align:center;"
-|+Heiratssregister Breslau I
+|+Heiratsregister Breslau I
 |-
 ! scope="col" rowspan="2"  style="padding-left:20px;padding-right:20px"| Jahr
 ! scope="col" rowspan="2"| Bd.

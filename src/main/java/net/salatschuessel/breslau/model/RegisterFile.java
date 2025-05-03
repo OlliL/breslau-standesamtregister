@@ -4,7 +4,7 @@ import java.io.File;
 
 public enum RegisterFile {
 	BRESLAU_I_BIRTH("1", "breslau_1_birth", "Geburtsregister Breslau I"),
-	BRESLAU_I_MARRIAGE("2", "breslau_1_marriage", "Heiratssregister Breslau I"),
+	BRESLAU_I_MARRIAGE("2", "breslau_1_marriage", "Heiratsregister Breslau I"),
 	BRESLAU_I_DEATH("3", "breslau_1_death", "Sterberegister Breslau I");
 
 	private final String id;
