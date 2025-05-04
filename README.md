@@ -2,7 +2,7 @@ I've compiled an overview of the available registers of the Wrocław registry of
 
 I wrote two small Java programs to capture the data. They were written in a hurried, spaghetti-code style... don't look too closely ;)
 
-The recorded JSON files with all the raw data can be found [here](https://github.com/OlliL/breslau-standesamtregister/tree/main/data).
+The recorded JSON files with all the raw data can be found [here](https://github.com/OlliL/breslau-standesamtregister/tree/main/data). Not listed registers (holes) in the JSON data count as lost registers. If for example only the main register volume 13 of year 1878 exists in the JSON data, register volumes 1-12 other main registers are lost as well as register volumes 1-13 of the secondary register.
 
 The generated output is available here:
 
