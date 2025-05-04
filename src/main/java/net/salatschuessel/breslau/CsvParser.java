@@ -28,25 +28,29 @@ public class CsvParser {
 
 	private static final String BIS = " bis ";
 	private static DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
-	private static final String file = "/home/olivleh1/test.csv";
-	// A 1908 and later
-	// private static final String registerToRead = "A";
-	// private static int staatsarchivBreslauBaseNumber = 28446660;
-	// private static int ancestryBaseNumber45215 = 78563;
-	// private static int ancestryBaseNumber42895 = 7073;
+	private static final String file = "/tmp/test.csv";
+	// A
+	private static final String registerToRead = "A";
+	private static int staatsarchivBreslauBaseNumber = 28372165;
+	private static int staatsarchivBreslauBaseNumberAlternative1914 = 0;
+	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
+	private static int staatsarchivBreslauBaseNumberAlternative1918 = 34268006;
+	private static int ancestryBaseNumber45215 = 78587;
+	private static int ancestryBaseNumber42895 = 7115;
+	private static List<Integer> missingNumbers = List.of(28372276);
 	// B
 	// private static final String registerToRead = "B";
 	// private static int staatsarchivBreslauBaseNumber = 28371247;
 	// private static int ancestryBaseNumber45215 = 78577;
 	// private static int ancestryBaseNumber42895 = 7214;
 	// C
-	private static final String registerToRead = "C";
-	private static int staatsarchivBreslauBaseNumber = 28371414;
-	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41602287;
-	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41975817;
-	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42671721;
-	private static int ancestryBaseNumber45215 = 0;
-	private static int ancestryBaseNumber42895 = 7454;
+	// private static final String registerToRead = "C";
+	// private static int staatsarchivBreslauBaseNumber = 28371414;
+	// private static int staatsarchivBreslauBaseNumberAlternative1914 = 41602287;
+	// private static int staatsarchivBreslauBaseNumberAlternative1916 = 41975817;
+	// private static int staatsarchivBreslauBaseNumberAlternative1918 = 42671721;
+	// private static int ancestryBaseNumber45215 = 0;
+	// private static int ancestryBaseNumber42895 = 7454;
 
 	public static void main(final String[] args) throws IOException {
 		final UserInputService userInputService = new UserInputService();
@@ -111,7 +115,7 @@ public class CsvParser {
 					case ANCESTRY -> register.setUrl(getAncestryUrl(year, registerType));
 					case STAATSARCHIV_BRESLAU -> {
 						int number = 0;
-						if (isDeathRegister(registerType) && year >= 1918) {
+						if (year >= 1918) {
 							number = staatsarchivBreslauBaseNumberAlternative1918++;
 						} else if (isDeathRegister(registerType) && year >= 1916) {
 							number = staatsarchivBreslauBaseNumberAlternative1916++;
@@ -119,6 +123,9 @@ public class CsvParser {
 							number = staatsarchivBreslauBaseNumberAlternative1914++;
 						} else {
 							number = staatsarchivBreslauBaseNumber++;
+							while (missingNumbers.contains(number)) {
+								number = staatsarchivBreslauBaseNumber++;
+							}
 						}
 						register.setUrl(URI.create("https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/%d"
 								.formatted(number)).toURL());

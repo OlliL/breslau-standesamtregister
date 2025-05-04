@@ -27,6 +27,7 @@ public class UserInputService {
 	public RegisterFile requestRegisterFile() throws IOException {
 		System.out.println("Select file to work on:");
 		System.out.println(" Breslau I:    1) Geburtsregister    2) Heiratsregister    3) Sterberegister ");
+		System.out.println(" Breslau II:   4) Geburtsregister    5) Heiratsregister    6) Sterberegister ");
 
 		RegisterFile registerFile = null;
 		while (registerFile == null) {
