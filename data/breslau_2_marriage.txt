@@ -16,24 +16,24 @@
 ! rowspan="2"|1874
 | 1
 | 1-299
-| ?-?
+| 13.10.-28.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372529 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
 | 300-310
-| ?-?
+| 29.12.-31.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372530 Staatsarchiv Breslau]
 | 300-310
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372531 Staatsarchiv Breslau]
+| 29.12.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372531 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 ! colspan="8"|
 |-
 ! rowspan="6"|1875
 | 1
 | 1-300
-| ?-?
+| 02.01.-29.03.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372532 Staatsarchiv Breslau]
 | 1-300
 | 02.01.-29.03.
@@ -41,7 +41,7 @@
 |-
 | 2
 | 301-600
-| ?-?
+| 29.03.-21.05.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372533 Staatsarchiv Breslau]
 | 301-600
 | 29.03.-21.05.
@@ -49,13 +49,13 @@
 |-
 | 3
 | 601-900
-| ?-?
+| 21.05.-11.08.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372534 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 4
 | 901-1200
-| ?-?
+| 11.08.-22.10.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372535 Staatsarchiv Breslau]
 | 901-1200
 | 11.08.-22.10.
@@ -63,26 +63,26 @@
 |-
 | 5
 | 1201-1500
-| ?-?
+| 22.10.-31.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372536 Staatsarchiv Breslau]
 | 1201-1500
-| ?-?
+| 22.10.-31.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/34268626 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 6
 | 1501-1502
-| ?-?
+| 31.12.-31.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372537 Staatsarchiv Breslau]
 | 1501-1502
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372538 Staatsarchiv Breslau]
+| 31.12.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372538 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 ! colspan="8"|
 |-
 ! rowspan="5"|1876
 | 1
 | 1-300
-| ?-?
+| 03.01.-05.04.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372539 Staatsarchiv Breslau]
 | 1-300
 | 03.01.-05.04.
@@ -90,7 +90,7 @@
 |-
 | 2
 | 301-600
-| ?-?
+| 05.04.-07.06.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372540 Staatsarchiv Breslau]
 | 301-600
 | 05.04.-07.06.
@@ -98,19 +98,19 @@
 |-
 | 3
 | 601-900
-| ?-?
+| 07.06.-30.08.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372541 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 4
 | 901-1200
-| ?-?
+| 30.08.-06.11.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372542 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 5
 | 1201-1412
-| ?-?
+| 06.11.-30.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372543 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
@@ -119,21 +119,21 @@
 ! rowspan="4"|1877
 | 1
 | 1-300
-| ?-?
+| 02.01.-31.03.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372544 Staatsarchiv Breslau]
 | 1-300
 | 02.01.-31.03.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007269-00001 Ancestry]
 |-
 | 2
-| 301-598
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372545 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 301-598
+| 31.03.-26.05.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372545 Staatsarchiv Breslau]
 |-
 | 3
 | 599-898
-| ?-?
+| 26.05.-12.09.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372546 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
@@ -146,7 +146,7 @@
 ! rowspan="4"|1878
 | 1
 | 1-300
-| ?-?
+| 02.01.-15.04.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372547 Staatsarchiv Breslau]
 | 1-300
 | 02.01.-15.04.
@@ -154,8 +154,8 @@
 |-
 | 2
 | 301-600
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372548 Staatsarchiv Breslau]
+| 15.04.-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372548 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 3
@@ -171,7 +171,7 @@
 ! rowspan="4"|1879
 | 1
 | 1-300
-| ?-?
+| 03.01.-15.04.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372549 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
@@ -181,14 +181,14 @@
 |-
 | 3
 | 601-900
-| ?-?
+| 04.07.-13.10.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372550 Staatsarchiv Breslau]
-| 601-900
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372551 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 4
-| colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 901-?
+| 13.10.-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372551 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 ! colspan="8"|
@@ -196,19 +196,19 @@
 ! rowspan="6"|1880
 | 1
 | 1-200
-| ?-?
+| 02.01.-09.03.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372552 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
 | 201-400
-| ?-?
+| 09.03.-04.05.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372553 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 3
 | 401-600
-| ?-?
+| 04.05.-10.07.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372554 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
@@ -218,13 +218,13 @@
 |-
 | 5
 | 801-1000
-| ?-?
+| 16.09.-04.11.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372555 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 6
 | 1001-1184
-| ?-?
+| 04.11.-31.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372556 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
@@ -245,19 +245,19 @@
 |-
 | 4
 | 600-799
-| ?-?
+| 13.07.-15.09.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372557 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 5
 | 800-999
-| ?-?
+| 16.09.-28.10.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372558 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 6
 | 1000-1199
-| ?-?
+| 28.10.-27.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372559 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
@@ -274,7 +274,7 @@
 |-
 | 2
 | 201-400
-| ?-?
+| 23.02.-21.04.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372560 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
@@ -284,27 +284,27 @@
 |-
 | 4
 | 601-800
-| ?-?
+| 05.06.-02.08.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372561 Staatsarchiv Breslau]
-| 601-800
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372562 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 5
-| colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 801-1000
+| 02.08.-06.10.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372562 Staatsarchiv Breslau]
 | 801-1000
 | 02.08.-06.10.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007271-00001 Ancestry]
 |-
 | 6
 | 1001-1200
-| ?-?
+| 07.10.-15.11.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372563 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 7
 | 1201-1364
-| ?-?
+| 16.11.-30.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372564 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
