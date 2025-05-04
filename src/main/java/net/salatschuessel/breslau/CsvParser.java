@@ -131,7 +131,8 @@ public class CsvParser {
 								.formatted(number)).toURL());
 					}
 					}
-					if (archive == Archive.ANCESTRY || archive == Archive.STAATSARCHIV_BRESLAU) {
+					if (archive == Archive.ANCESTRY
+							|| (archive == Archive.STAATSARCHIV_BRESLAU && !urlCol.equals("noch nicht online"))) {
 						register.setOnline(true);
 					}
 				}

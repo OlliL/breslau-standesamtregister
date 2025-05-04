@@ -16,13 +16,13 @@
 ! rowspan="2"|1874
 | 1
 | 1-600
-| ?-?
+| 02.10.-23.11.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372165 Staatsarchiv Breslau]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
 | 601-1097
-| ?-?
+| 23.11.-31.12.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372166 Staatsarchiv Breslau]
 | 601-1097
 | 23.11.-31.12.
@@ -33,15 +33,15 @@
 ! rowspan="10"|1875
 | 1
 | 1-600
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372167 Staatsarchiv Breslau]
+| 01.01.-16.02.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372167 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1-600
 | 01.01.-16.02.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007116-00001 Ancestry]
 |-
 | 2
 | 601-1200
-| ?-?
+| 16.02.-30.03.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372168 Staatsarchiv Breslau]
 | 601-1200
 | 16.02.-30.03.
@@ -53,56 +53,56 @@
 |-
 | 4
 | 1801-2400
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372169 Staatsarchiv Breslau]
+| 14.05.-24.06.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372170 Staatsarchiv Breslau]
 | 1801-2400
 | 14.05.-24.06.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007118-00001 Ancestry]
 |-
 | 5
 | 2401-3000
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372170 Staatsarchiv Breslau]
+| 24.06.-10.08.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372171 Staatsarchiv Breslau]
 | 2401-3000
 | 24.06.-10.08.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007119-00001 Ancestry]
 |-
 | 6
 | 3001-3598
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372171 Staatsarchiv Breslau]
+| 10.08.-22.09.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372172 Staatsarchiv Breslau]
 | 3001-3598
 | 10.08.-22.09.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007120-00001 Ancestry]
 |-
 | 7
 | 3599-4198
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372172 Staatsarchiv Breslau]
+| 22.09.-03.11.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372173 Staatsarchiv Breslau]
 | 3599-4198
 | 22.09.-03.11.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007121-00001 Ancestry]
 |-
 | 8
 | 4199-4797
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372173 Staatsarchiv Breslau]
+| 03.11.-13.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372174 Staatsarchiv Breslau]
 | 4199-4797
 | 03.11.-13.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007122-00001 Ancestry]
 |-
 | 9
 | 4798-5037
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372174 Staatsarchiv Breslau]
+| 13.12.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372175 Staatsarchiv Breslau]
 | 4798-5037
 | 13.12.-31.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007123-00001 Ancestry]
 |-
 | 10
 | 5038-5057
-| ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372175 Staatsarchiv Breslau]
+| 31.12.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28372169 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 5038-5057
 | 31.12.-31.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007124-00001 Ancestry]
