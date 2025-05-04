@@ -29,20 +29,23 @@ public class CsvParser {
 	private static final String BIS = " bis ";
 	private static DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 	private static final String file = "/tmp/test.csv";
+	private static List<Integer> missingNumbers = List.of(28372276);
 	// A
-	private static final String registerToRead = "A";
-	private static int staatsarchivBreslauBaseNumber = 28372165;
+	// private static final String registerToRead = "A";
+	// private static int staatsarchivBreslauBaseNumber = 28372165;
+	// private static int staatsarchivBreslauBaseNumberAlternative1914 = 0;
+	// private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
+	// private static int staatsarchivBreslauBaseNumberAlternative1918 = 34268006;
+	// private static int ancestryBaseNumber45215 = 78587;
+	// private static int ancestryBaseNumber42895 = 7115;
+	// B
+	private static final String registerToRead = "B";
+	private static int staatsarchivBreslauBaseNumber = 28372529;
 	private static int staatsarchivBreslauBaseNumberAlternative1914 = 0;
 	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
-	private static int staatsarchivBreslauBaseNumberAlternative1918 = 34268006;
-	private static int ancestryBaseNumber45215 = 78587;
-	private static int ancestryBaseNumber42895 = 7115;
-	private static List<Integer> missingNumbers = List.of(28372276);
-	// B
-	// private static final String registerToRead = "B";
-	// private static int staatsarchivBreslauBaseNumber = 28371247;
-	// private static int ancestryBaseNumber45215 = 78577;
-	// private static int ancestryBaseNumber42895 = 7214;
+	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
+	private static int ancestryBaseNumber45215 = 78603;
+	private static int ancestryBaseNumber42895 = 7264;
 	// C
 	// private static final String registerToRead = "C";
 	// private static int staatsarchivBreslauBaseNumber = 28371414;
@@ -75,6 +78,7 @@ public class CsvParser {
 				final String archiveCol = cvsLine[1].trim();
 				final String numberCol = cvsLine[2].trim();
 				final String dateCol = cvsLine[3].trim();
+				final String fallbackUrlNumber = cvsLine[6].trim();
 				final String urlCol = cvsLine[7].trim();
 
 				if (!hasData(yearCol) && hasData(archiveCol) && hasData(dateCol))
@@ -115,7 +119,9 @@ public class CsvParser {
 					case ANCESTRY -> register.setUrl(getAncestryUrl(year, registerType));
 					case STAATSARCHIV_BRESLAU -> {
 						int number = 0;
-						if (year >= 1918) {
+						if (hasData(fallbackUrlNumber)) {
+							number = Integer.parseInt(fallbackUrlNumber);
+						} else if (year >= 1918) {
 							number = staatsarchivBreslauBaseNumberAlternative1918++;
 						} else if (isDeathRegister(registerType) && year >= 1916) {
 							number = staatsarchivBreslauBaseNumberAlternative1916++;
