@@ -9,6 +9,9 @@ public enum RegisterFile {
 	BRESLAU_II_BIRTH("4", "breslau_2_birth", "Geburtsregister Breslau II"),
 	BRESLAU_II_MARRIAGE("5", "breslau_2_marriage", "Heiratsregister Breslau II"),
 	BRESLAU_II_DEATH("6", "breslau_2_death", "Sterberegister Breslau II"),
+	BRESLAU_III_BIRTH("7", "breslau_3_birth", "Geburtsregister Breslau III"),
+	BRESLAU_III_MARRIAGE("8", "breslau_3_marriage", "Heiratsregister Breslau III"),
+	BRESLAU_III_DEATH("9", "breslau_3_death", "Sterberegister Breslau III"),
 	;
 
 	private final String id;
