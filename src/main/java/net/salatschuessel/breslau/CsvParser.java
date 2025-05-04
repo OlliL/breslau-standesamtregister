@@ -30,6 +30,7 @@ public class CsvParser {
 	private static DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 	private static final String file = "/tmp/test.csv";
 	private static List<Integer> missingNumbers = List.of(28372276);
+	private static List<Integer> missingNumbersAncestry = List.of(7698, 7699, 7700);
 	// A
 	// private static final String registerToRead = "A";
 	// private static int staatsarchivBreslauBaseNumber = 28372165;
@@ -39,21 +40,21 @@ public class CsvParser {
 	// private static int ancestryBaseNumber45215 = 78587;
 	// private static int ancestryBaseNumber42895 = 7115;
 	// B
-	private static final String registerToRead = "B";
-	private static int staatsarchivBreslauBaseNumber = 28372529;
-	private static int staatsarchivBreslauBaseNumberAlternative1914 = 0;
-	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
-	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
-	private static int ancestryBaseNumber45215 = 78603;
-	private static int ancestryBaseNumber42895 = 7264;
+//	private static final String registerToRead = "B";
+//	private static int staatsarchivBreslauBaseNumber = 28372529;
+//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 0;
+//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
+//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
+//	private static int ancestryBaseNumber45215 = 78603;
+//	private static int ancestryBaseNumber42895 = 7264;
 	// C
-	// private static final String registerToRead = "C";
-	// private static int staatsarchivBreslauBaseNumber = 28371414;
-	// private static int staatsarchivBreslauBaseNumberAlternative1914 = 41602287;
-	// private static int staatsarchivBreslauBaseNumberAlternative1916 = 41975817;
-	// private static int staatsarchivBreslauBaseNumberAlternative1918 = 42671721;
-	// private static int ancestryBaseNumber45215 = 0;
-	// private static int ancestryBaseNumber42895 = 7454;
+	private static final String registerToRead = "C";
+	private static int staatsarchivBreslauBaseNumber = 28372753;
+	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41602373;
+	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41975909;
+	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675381;
+	private static int ancestryBaseNumber45215 = 0;
+	private static int ancestryBaseNumber42895 = 7585;
 
 	public static void main(final String[] args) throws IOException {
 		final UserInputService userInputService = new UserInputService();
@@ -170,7 +171,10 @@ public class CsvParser {
 	}
 
 	private static String getAndIncrementCounter(final String collection) {
-		final int number = collection.equals("45215") ? ancestryBaseNumber45215++ : ancestryBaseNumber42895++;
+		int number = 0;
+		do {
+			number = collection.equals("45215") ? ancestryBaseNumber45215++ : ancestryBaseNumber42895++;
+		} while (missingNumbersAncestry.contains(number));
 		return String.format("%6s", Integer.valueOf(number).toString()).replace(' ', '0');
 	}
 
