@@ -11,15 +11,18 @@ The generated output is available here:
 - [Standesamt Breslau I Geburtsregister](https://wiki.genealogy.net/Standesamt_Breslau_I_Geburtsregister)
 - [Standesamt Breslau II Geburtsregister](https://wiki.genealogy.net/Standesamt_Breslau_II_Geburtsregister)
 - [Standesamt Breslau III Geburtsregister](https://wiki.genealogy.net/Standesamt_Breslau_III_Geburtsregister)
+- [Standesamt Breslau IV Geburtsregister](https://wiki.genealogy.net/Standesamt_Breslau_IV_Geburtsregister)
 
 # Heiratsregister
 
 - [Standesamt Breslau I Heiratsregister](https://wiki.genealogy.net/Standesamt_Breslau_I_Heiratsregister)
 - [Standesamt Breslau II Heiratsregister](https://wiki.genealogy.net/Standesamt_Breslau_II_Heiratsregister)
 - [Standesamt Breslau III Heiratsregister](https://wiki.genealogy.net/Standesamt_Breslau_III_Heiratsregister)
+- [Standesamt Breslau IV Heiratsregister](https://wiki.genealogy.net/Standesamt_Breslau_IV_Heiratsregister)
 
 # Sterberegister
 
 - [Standesamt Breslau I Sterberegister](https://wiki.genealogy.net/Standesamt_Breslau_I_Sterberegister)
 - [Standesamt Breslau II Sterberegister](https://wiki.genealogy.net/Standesamt_Breslau_II_Sterberegister)
 - [Standesamt Breslau III Sterberegister](https://wiki.genealogy.net/Standesamt_Breslau_III_Sterberegister)
+- [Standesamt Breslau IV Sterberegister](https://wiki.genealogy.net/Standesamt_Breslau_IV_Sterberegister)
