@@ -33,13 +33,13 @@ public class CsvParser {
 			32534691, 32534694, 32534702, 32534703, 32534708);
 	private static List<Integer> missingNumbersAncestry = List.of(7698, 7699, 7700, 7777);
 	// A
-//	private static final String registerToRead = "A";
-//	private static int staatsarchivBreslauBaseNumber = 3419999;
-//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 3419962;
-//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 32534670;
-//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 34268006;
-//	private static int ancestryBaseNumber45215 = 78615;
-//	private static int ancestryBaseNumber42895 = 7191;
+	private static final String registerToRead = "A";
+	private static int staatsarchivBreslauBaseNumber = 28373219;
+	private static int staatsarchivBreslauBaseNumberAlternative1914 = 3419962;
+	private static int staatsarchivBreslauBaseNumberAlternative1916 = 32534670;
+	private static int staatsarchivBreslauBaseNumberAlternative1918 = 34268006;
+	private static int ancestryBaseNumber45215 = 78632;
+	private static int ancestryBaseNumber42895 = 0;
 	// B
 //	private static final String registerToRead = "B";
 //	private static int staatsarchivBreslauBaseNumber = 3420098;
@@ -49,13 +49,13 @@ public class CsvParser {
 //	private static int ancestryBaseNumber45215 = 78625;
 //	private static int ancestryBaseNumber42895 = 7358;
 	// C
-	private static final String registerToRead = "C";
-	private static int staatsarchivBreslauBaseNumber = 3420170;
-	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41602396;
-	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41976025;
-	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675426;
-	private static int ancestryBaseNumber45215 = 0;
-	private static int ancestryBaseNumber42895 = 7737;
+//	private static final String registerToRead = "C";
+//	private static int staatsarchivBreslauBaseNumber = 3420170;
+//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41602396;
+//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41976025;
+//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675426;
+//	private static int ancestryBaseNumber45215 = 0;
+//	private static int ancestryBaseNumber42895 = 7737;
 
 	public static void main(final String[] args) throws IOException {
 		final UserInputService userInputService = new UserInputService();

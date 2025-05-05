@@ -29,6 +29,7 @@ public class UserInputService {
 		System.out.println(" Breslau I:    1) Geburtsregister    2) Heiratsregister    3) Sterberegister ");
 		System.out.println(" Breslau II:   4) Geburtsregister    5) Heiratsregister    6) Sterberegister ");
 		System.out.println(" Breslau III:  7) Geburtsregister    8) Heiratsregister    9) Sterberegister ");
+		System.out.println(" Breslau IV:  10) Geburtsregister   11) Heiratsregister   12) Sterberegister ");
 
 		RegisterFile registerFile = null;
 		while (registerFile == null) {
