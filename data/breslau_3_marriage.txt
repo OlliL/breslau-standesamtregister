@@ -1422,7 +1422,21 @@
 |-
 ! colspan="8"|
 |-
-! rowspan="3"|1930
+! rowspan="6"|1930
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373404 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+|-
 | 
 | ?-?
 | 02.01.-22.03.
@@ -1635,7 +1649,33 @@
 |-
 ! colspan="8"|
 |-
-! rowspan="1"|1937
+! rowspan="7"|1937
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 5
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 6
+| colspan="3" |
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373405 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+|-
 | 
 | ?-?
 | 01.01.-11.12.
