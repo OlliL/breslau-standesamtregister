@@ -31,7 +31,7 @@ public class CsvParser {
 	private static final String file = "/tmp/test.csv";
 	private static List<Integer> missingNumbers = List.of(28372276, 32534671, 32534676, 32534682, 32534683, 32534686,
 			32534691, 32534694, 32534702, 32534703, 32534708);
-	private static List<Integer> missingNumbersAncestry = List.of(7698, 7699, 7700);
+	private static List<Integer> missingNumbersAncestry = List.of(7698, 7699, 7700, 7777);
 	// A
 //	private static final String registerToRead = "A";
 //	private static int staatsarchivBreslauBaseNumber = 3419999;
@@ -41,21 +41,21 @@ public class CsvParser {
 //	private static int ancestryBaseNumber45215 = 78615;
 //	private static int ancestryBaseNumber42895 = 7191;
 	// B
-	private static final String registerToRead = "B";
-	private static int staatsarchivBreslauBaseNumber = 3420098;
-	private static int staatsarchivBreslauBaseNumberAlternative1914 = 32534699;
-	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
-	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
-	private static int ancestryBaseNumber45215 = 78625;
-	private static int ancestryBaseNumber42895 = 7358;
+//	private static final String registerToRead = "B";
+//	private static int staatsarchivBreslauBaseNumber = 3420098;
+//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 32534699;
+//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
+//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
+//	private static int ancestryBaseNumber45215 = 78625;
+//	private static int ancestryBaseNumber42895 = 7358;
 	// C
-//	private static final String registerToRead = "C";
-//	private static int staatsarchivBreslauBaseNumber = 28372753;
-//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41602373;
-//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41975909;
-//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675381;
-//	private static int ancestryBaseNumber45215 = 0;
-//	private static int ancestryBaseNumber42895 = 7585;
+	private static final String registerToRead = "C";
+	private static int staatsarchivBreslauBaseNumber = 3420170;
+	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41602396;
+	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41976025;
+	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675426;
+	private static int ancestryBaseNumber45215 = 0;
+	private static int ancestryBaseNumber42895 = 7737;
 
 	public static void main(final String[] args) throws IOException {
 		final UserInputService userInputService = new UserInputService();
@@ -74,6 +74,7 @@ public class CsvParser {
 		try (final CSVReader cvsReader = new CSVReaderBuilder(new FileReader(file)).withCSVParser(parser)
 				.build();) {
 
+			boolean contentStarts = false;
 			final List<String[]> cvsLines = cvsReader.readAll();
 			for (final var cvsLine : cvsLines) {
 				String yearCol = cvsLine[0].trim();
@@ -83,10 +84,14 @@ public class CsvParser {
 				final String fallbackUrlNumber = cvsLine[6].trim();
 				final String urlCol = cvsLine[7].trim();
 
+				if (yearCol.equals("Band"))
+					contentStarts = true;
+
 				if (!hasData(yearCol) && hasData(archiveCol) && hasData(dateCol))
 					yearCol = previousYearCol;
 
-				if (!hasData(yearCol) || !yearCol.startsWith(registerToRead) || archiveCol.equals("SZU")) {
+				if (!contentStarts || !hasData(yearCol) || !yearCol.startsWith(registerToRead)
+						|| archiveCol.equals("SZU")) {
 					previousYearCol = yearCol;
 					continue;
 				}
