@@ -1,0 +1,775 @@
+{| class="wikitable" style="text-align:center;"
+|+Sterberegister Breslau V
+|-
+! scope="col" rowspan="2"  style="padding-left:20px;padding-right:20px"| Jahr
+! scope="col" rowspan="2"| Bd.
+! scope="col" colspan="3"| Hauptregister
+! scope="col" colspan="3"| Nebenregister
+|-
+! scope="col"| Reg.-Nr.
+! scope="col"| Datum
+! scope="col"| URL
+! scope="col"| Reg.-Nr.
+! scope="col"| Datum
+! scope="col"| URL
+|-
+! rowspan="2"|1920
+| 1
+| 1-377
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42675495 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| 378-731
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42675496 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| 376-731
+| 23.09.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007882-00001 Ancestry]
+|-
+! colspan="8"|
+|-
+! rowspan="6"|1921
+| 1
+| colspan="3" |
+| 1-381
+| 01.01.-23.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007883-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| 382-759
+| 24.03.-11.06.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007884-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 5
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="6"|1922
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 5
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 05.03.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="6"|1923
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| 380-757
+| 20.03.-11.06.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007885-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| 758-1131
+| 11.06.-08.09.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007886-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| 1132-1507
+| 08.09.-22.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007887-00001 Ancestry]
+|-
+| 5
+| colspan="3" |
+| 1508-1535
+| 22.12.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007888-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1924
+| 1
+| colspan="3" |
+| 1-367
+| 01.01.-24.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007889-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| 368-729
+| 25.03.-23.06.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007890-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| 730-1103
+| 23.06.-13.10.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007891-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1925
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| 368-729
+| 03.04.-06.07.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007892-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1926
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1927
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1928
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1929
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1930
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| 774-1157
+| 11.08.-08.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007893-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1931
+| 1
+| colspan="3" |
+| 1-391
+| 01.01.-15.04.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007894-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| 774-1161
+| 01.08.-30.11.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007895-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| 1162-1277
+| 30.11.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007896-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1932
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| 392-763
+| 02.04.-15.07.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007897-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1933
+| 1
+| colspan="3" |
+| 1-389
+| 02.01.-08.04.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007898-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| 390-745
+| 08.04.-22.07.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007899-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1934
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1935
+| 1
+| colspan="3" |
+| 1-379
+| 01.01.-27.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007900-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| 1164-1535
+| 07.10.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007901-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1936
+| 1
+| colspan="3" |
+| 1-395
+| 01.01.-31.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007902-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| 396-779
+| 31.03.-22.06.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007903-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| 780-1158
+| 22.06.-28.09.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007904-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| 1164-1538
+| 29.09.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007905-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1937
+| 1
+| colspan="3" |
+| 1-395
+| 01.01.-19.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007906-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| 786-1177
+| 14.06.-15.09.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007907-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="6"|1938
+| 1
+| colspan="3" |
+| 1-391
+| 01.01.-25.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007908-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| 392-665
+| 26.03.-27.05.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007909-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| 666-799
+| 27.05.-30.06.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007910-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| 800-1190
+| 01.07.-07.10.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007911-00001 Ancestry]
+|-
+| 5
+| colspan="3" |
+| 1191-1624
+| 07.10.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007912-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="6"|1939
+| 1
+| colspan="3" |
+| 1-435
+| 02.01.-23.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007913-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| 436-867
+| 23.03.-15.06.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007914-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 5
+| colspan="3" |
+| 1602-1836
+| 16.11.-30.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007915-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="7"|1940
+| 1
+| colspan="3" |
+| 1-299
+| 02.01.-23.02.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007916-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| 300-673
+| 23.02.-04.05.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007917-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 4
+| colspan="3" |
+| 1033-1410
+| 13.07.-01.10.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007918-00001 Ancestry]
+|-
+| 5
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 6
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="5"|1941
+| 1
+| colspan="3" |
+| 1-414
+| 02.01.-12.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007919-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| 415-893
+| 12.03.-11.06.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007920-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| 894-1370
+| 11.06.-15.09.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007921-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| 1371-1968
+| 15.09.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007922-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="6"|1942
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| 400-817
+| 17.03.-04.06.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007923-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| 818-1315
+| 04.06.-08.09.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007924-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| 1316-1673
+| 08.09.-17.11.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007925-00001 Ancestry]
+|-
+| 5
+| colspan="3" |
+| 1674-1931
+| 17.11.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007926-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="6"|1943
+| 1
+| colspan="3" |
+| 1-399
+| 02.01.-23.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007927-00001 Ancestry]
+|-
+| 2
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
+| colspan="3" |
+| 762-1199
+| 31.05.-31.08.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007928-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| 1200-1598
+| 31.08.-17.11.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007929-00001 Ancestry]
+|-
+| 5
+| colspan="3" |
+| 1599-1910
+| 17.11.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007930-00001 Ancestry]
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="6"|1944
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| 401-800
+| 24.02.-25.04.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007931-00001 Ancestry]
+|-
+| 3
+| colspan="3" |
+| 801-1200
+| 25.04.-07.07.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007932-00001 Ancestry]
+|-
+| 4
+| colspan="3" |
+| 1201-1600
+| 07.07.-02.10.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007933-00001 Ancestry]
+|-
+| 5
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 
+| ?-?
+| 01.01.-31.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+|}

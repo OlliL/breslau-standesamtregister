@@ -26,10 +26,15 @@ public class UserInputService {
 
 	public RegisterFile requestRegisterFile() throws IOException {
 		System.out.println("Select file to work on:");
-		System.out.println(" Breslau I:    1) Geburtsregister    2) Heiratsregister    3) Sterberegister ");
-		System.out.println(" Breslau II:   4) Geburtsregister    5) Heiratsregister    6) Sterberegister ");
-		System.out.println(" Breslau III:  7) Geburtsregister    8) Heiratsregister    9) Sterberegister ");
-		System.out.println(" Breslau IV:  10) Geburtsregister   11) Heiratsregister   12) Sterberegister ");
+		System.out.println(" Breslau I:      1) Geburtsregister    2) Heiratsregister    3) Sterberegister ");
+		System.out.println(" Breslau II:     4) Geburtsregister    5) Heiratsregister    6) Sterberegister ");
+		System.out.println(" Breslau III:    7) Geburtsregister    8) Heiratsregister    9) Sterberegister ");
+		System.out.println(" Breslau IV:    10) Geburtsregister   11) Heiratsregister   12) Sterberegister ");
+		System.out.println(" Breslau V:     13) Geburtsregister   14) Heiratsregister   15) Sterberegister ");
+		System.out.println(" Breslau VI:    16) Geburtsregister   17) Heiratsregister   18) Sterberegister ");
+		System.out.println(" Breslau VII:   19) Geburtsregister   20) Heiratsregister   21) Sterberegister ");
+		System.out.println(" Breslau VIII:  22) Geburtsregister   23) Heiratsregister   24) Sterberegister ");
+		System.out.println(" Breslau LandV: 25) Geburtsregister   26) Heiratsregister   27) Sterberegister ");
 
 		RegisterFile registerFile = null;
 		while (registerFile == null) {
