@@ -13,6 +13,7 @@ The generated output is available here:
 - [Standesamt Breslau III Geburtsregister](https://wiki.genealogy.net/Standesamt_Breslau_III_Geburtsregister)
 - [Standesamt Breslau IV Geburtsregister](https://wiki.genealogy.net/Standesamt_Breslau_IV_Geburtsregister)
 - [Standesamt Breslau V Geburtsregister](https://wiki.genealogy.net/Standesamt_Breslau_V_Geburtsregister)
+- [Standesamt Breslau VI Geburtsregister](https://wiki.genealogy.net/Standesamt_Breslau_VI_Geburtsregister)
 
 # Heiratsregister
 
@@ -21,6 +22,7 @@ The generated output is available here:
 - [Standesamt Breslau III Heiratsregister](https://wiki.genealogy.net/Standesamt_Breslau_III_Heiratsregister)
 - [Standesamt Breslau IV Heiratsregister](https://wiki.genealogy.net/Standesamt_Breslau_IV_Heiratsregister)
 - [Standesamt Breslau V Heiratsregister](https://wiki.genealogy.net/Standesamt_Breslau_V_Heiratsregister)
+- [Standesamt Breslau VI Heiratsregister](https://wiki.genealogy.net/Standesamt_Breslau_VI_Heiratsregister)
 
 # Sterberegister
 
@@ -29,3 +31,4 @@ The generated output is available here:
 - [Standesamt Breslau III Sterberegister](https://wiki.genealogy.net/Standesamt_Breslau_III_Sterberegister)
 - [Standesamt Breslau IV Sterberegister](https://wiki.genealogy.net/Standesamt_Breslau_IV_Sterberegister)
 - [Standesamt Breslau V Sterberegister](https://wiki.genealogy.net/Standesamt_Breslau_V_Sterberegister)
+- [Standesamt Breslau VI Sterberegister](https://wiki.genealogy.net/Standesamt_Breslau_VI_Sterberegister)

@@ -38,24 +38,24 @@ public class CsvParser {
 //	private static int staatsarchivBreslauBaseNumberAlternative1914 = 3419962;
 //	private static int staatsarchivBreslauBaseNumberAlternative1916 = 32534670;
 //	private static int staatsarchivBreslauBaseNumberAlternative1918 = 34268006;
-//	private static int ancestryBaseNumber45215 = 78672;
+//	private static int ancestryBaseNumber45215 = 26125;
 //	private static int ancestryBaseNumber42895 = 7439;
 	// B
-//	private static final String registerToRead = "B";
-//	private static int staatsarchivBreslauBaseNumber = 28373340;
-//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 32534699;
-//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
-//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
-//	private static int ancestryBaseNumber45215 = 78672;
-//	private static int ancestryBaseNumber42895 = 7439;
+	private static final String registerToRead = "B";
+	private static int staatsarchivBreslauBaseNumber = 28373340;
+	private static int staatsarchivBreslauBaseNumberAlternative1914 = 32534699;
+	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
+	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
+	private static int ancestryBaseNumber45215 = 78672;
+	private static int ancestryBaseNumber42895 = 7439;
 	// C
-	private static final String registerToRead = "C";
-	private static int staatsarchivBreslauBaseNumber = 28373411;
-	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41603394;
-	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41976692;
-	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675468;
-	private static int ancestryBaseNumber45215 = 0;
-	private static int ancestryBaseNumber42895 = 7882;
+//	private static final String registerToRead = "C";
+//	private static int staatsarchivBreslauBaseNumber = 28373411;
+//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41603394;
+//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41976692;
+//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675468;
+//	private static int ancestryBaseNumber45215 = 0;
+//	private static int ancestryBaseNumber42895 = 7882;
 
 	public static void main(final String[] args) throws IOException {
 		final UserInputService userInputService = new UserInputService();
@@ -125,7 +125,7 @@ public class CsvParser {
 					case LANDESARCHIV_BERLIN -> register.setUrl(URI.create("https://landesarchiv-berlin.de/").toURL());
 					case STANDESAMT_1_BERLIN -> register.setUrl(URI.create("https://www.berlin.de/").toURL());
 					case STANDESAMT_BRESLAU -> register.setUrl(URI.create("https://bip.um.wroc.pl/").toURL());
-					case ANCESTRY -> register.setUrl(getAncestryUrl(year, registerType));
+					case ANCESTRY -> register.setUrl(getAncestryUrl(year, registerType, urlCol));
 					case STAATSARCHIV_BRESLAU -> {
 						int number = 0;
 						if (hasData(fallbackUrlNumber)) {
@@ -178,7 +178,12 @@ public class CsvParser {
 		tableCreatorService.create(registerFile, registerList);
 	}
 
-	private static URL getAncestryUrl(final int year, final String registerType) throws MalformedURLException {
+	private static URL getAncestryUrl(final int year, final String registerType, final String urlCol)
+			throws MalformedURLException {
+		if (!urlCol.isEmpty() && !urlCol.contains("backurl")) {
+			return URI.create(urlCol).toURL();
+		}
+
 		final String collection = getAncestryCollection(year, registerType);
 		final String counter = getAndIncrementCounter(collection);
 

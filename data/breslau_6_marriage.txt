@@ -1,0 +1,196 @@
+{| class="wikitable" style="text-align:center;"
+|+Heiratsregister Breslau VI (Hundsfeld)
+|-
+! scope="col" rowspan="2"  style="padding-left:20px;padding-right:20px"| Jahr
+! scope="col" rowspan="2"| Bd.
+! scope="col" colspan="3"| Hauptregister
+! scope="col" colspan="3"| Nebenregister
+|-
+! scope="col"| Reg.-Nr.
+! scope="col"| Datum
+! scope="col"| URL
+! scope="col"| Reg.-Nr.
+! scope="col"| Datum
+! scope="col"| URL
+|-
+! rowspan="1"|1875
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373555 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1877
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373556 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1880
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373557 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1882
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373558 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1883
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373559 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1884
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373560 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1885
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373561 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1886
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373562 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1887
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373563 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1888
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373564 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1894
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373565 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1895
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373566 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1896
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373567 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1899
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373568 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1900
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373569 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1901
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373570 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1902
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373571 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1903
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373572 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1906
+| 
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373573 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1936
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+|}
