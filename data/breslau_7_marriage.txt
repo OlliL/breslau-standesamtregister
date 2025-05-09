@@ -1,0 +1,228 @@
+{| class="wikitable" style="text-align:center;"
+|+Heiratsregister Breslau VII (Deutsch Lissa)
+|-
+! scope="col" rowspan="2"  style="padding-left:20px;padding-right:20px"| Jahr
+! scope="col" rowspan="2"| Bd.
+! scope="col" colspan="3"| Hauptregister
+! scope="col" colspan="3"| Nebenregister
+|-
+! scope="col"| Reg.-Nr.
+! scope="col"| Datum
+! scope="col"| URL
+! scope="col"| Reg.-Nr.
+! scope="col"| Datum
+! scope="col"| URL
+|-
+! rowspan="1"|1891
+| 1
+| 1-30
+| 10.01.-15.11.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/25437272 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1892
+| 1
+| 1-29
+| 09.01.-04.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/25437273 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1894
+| 1
+| 1-38
+| 07.01.-26.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/25437274 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1895
+| 1
+| 1-29
+| 24.02.-26.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/25437275 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1897
+| 1
+| 1-39
+| 07.02.-26.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/25437276 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1898
+| 1
+| 1-45
+| 08.01.-28.12.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/25437277 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1917
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1918
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1928
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1930
+| 1
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1-83
+| 07.01.-27.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/45215_srep100%5E078684-00001 Ancestry]
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1931
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1932
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="3"|1934
+| 1
+| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 2
+| colspan="3" |
+| 97-159
+| 06.10.-29.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/45215_srep100%5E078685-00001 Ancestry]
+|-
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1935
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1936
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| ?-?
+| 11.01.-31.12.
+| Landesarchiv Berlin
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1937
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1938
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1939
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| ?-?
+| 04.01.-29.08.
+| Landesarchiv Berlin
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1940
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1941
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1942
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1943
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+|}
