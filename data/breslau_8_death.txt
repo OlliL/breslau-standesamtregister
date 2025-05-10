@@ -1,0 +1,334 @@
+{| class="wikitable" style="text-align:center;"
+|+Sterberegister Breslau VIII (Pilsnitz, Masselwitz)
+|-
+! scope="col" rowspan="2"  style="padding-left:20px;padding-right:20px"| Jahr
+! scope="col" rowspan="2"| Bd.
+! scope="col" colspan="3"| Hauptregister
+! scope="col" colspan="3"| Nebenregister
+|-
+! scope="col"| Reg.-Nr.
+! scope="col"| Datum
+! scope="col"| URL
+! scope="col"| Reg.-Nr.
+! scope="col"| Datum
+! scope="col"| URL
+|-
+! rowspan="1"|1878
+| Pilsnitz 1
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28374760 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1879
+| Pilsnitz 1
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28374761 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1880
+| Pilsnitz 1
+| ?-?
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28374762 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1897
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1898
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1899
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1900
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1901
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1902
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1903
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1904
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1905
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1906
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1908
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1909
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1910
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1913
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1916
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1917
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1918
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1919
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1921
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1922
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1924
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1925
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1926
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="3"|1934
+| Masselwitz 1
+| colspan="3" |
+| 1-94
+| 01.01.-31.03.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007941-00001 Ancestry]
+|-
+| Pilsnitz 1
+| colspan="3" |
+| 1-57
+| 07.04.-27.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007942-00001 Ancestry]
+|-
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="2"|1935
+| 1
+| colspan="3" |
+| 1-108
+| 02.01.-28.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007943-00001 Ancestry]
+|-
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="2"|1936
+| 1
+| colspan="3" |
+| 1-92
+| 07.01.-30.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007944-00001 Ancestry]
+|-
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1940
+| 
+| ?-?
+| 19.04.-28.12.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="1"|1941
+| 
+| ?-?
+| 02.01.-26.03.
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+! rowspan="2"|1943
+| 1
+| colspan="3" |
+| 1-295
+| 05.01.-31.12.
+| [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007945-00001 Ancestry]
+|-
+| 
+| ?-?
+| ?-?
+| Standesamt Breslau
+| colspan="3" |
+|-
+! colspan="8"|
+|-
+|}

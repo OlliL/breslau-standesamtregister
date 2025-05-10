@@ -20,6 +20,7 @@ import com.opencsv.exceptions.CsvException;
 
 import net.salatschuessel.breslau.model.Archive;
 import net.salatschuessel.breslau.model.Register;
+import net.salatschuessel.breslau.model.RegisterFile;
 import net.salatschuessel.breslau.service.JsonFileService;
 import net.salatschuessel.breslau.service.TableCreatorService;
 import net.salatschuessel.breslau.service.UserInputService;
@@ -41,21 +42,21 @@ public class CsvParser {
 //	private static int ancestryBaseNumber45215 = 26125;
 //	private static int ancestryBaseNumber42895 = 7439;
 	// B
-	private static final String registerToRead = "B";
-	private static int staatsarchivBreslauBaseNumber = 28373340;
-	private static int staatsarchivBreslauBaseNumberAlternative1914 = 32534699;
-	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
-	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
-	private static int ancestryBaseNumber45215 = 78672;
-	private static int ancestryBaseNumber42895 = 7439;
+//	private static final String registerToRead = "B";
+//	private static int staatsarchivBreslauBaseNumber = 28373340;
+//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 32534699;
+//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 0;
+//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 0;
+//	private static int ancestryBaseNumber45215 = 78672;
+//	private static int ancestryBaseNumber42895 = 7439;
 	// C
-//	private static final String registerToRead = "C";
-//	private static int staatsarchivBreslauBaseNumber = 28373411;
-//	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41603394;
-//	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41976692;
-//	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675468;
-//	private static int ancestryBaseNumber45215 = 0;
-//	private static int ancestryBaseNumber42895 = 7882;
+	private static final String registerToRead = "C";
+	private static int staatsarchivBreslauBaseNumber = 28373411;
+	private static int staatsarchivBreslauBaseNumberAlternative1914 = 41603394;
+	private static int staatsarchivBreslauBaseNumberAlternative1916 = 41976692;
+	private static int staatsarchivBreslauBaseNumberAlternative1918 = 42675468;
+	private static int ancestryBaseNumber45215 = 0;
+	private static int ancestryBaseNumber42895 = 7882;
 
 	public static void main(final String[] args) throws IOException {
 		final UserInputService userInputService = new UserInputService();
@@ -83,6 +84,7 @@ public class CsvParser {
 				final String dateCol = cvsLine[3].trim();
 				final String fallbackUrlNumber = cvsLine[6].trim();
 				final String urlCol = cvsLine[7].trim();
+				final String notesCol = cvsLine[9].trim();
 
 				if (yearCol.equals("Band")) {
 					contentStarts = true;
@@ -101,6 +103,12 @@ public class CsvParser {
 				final String registerType = yearCol.substring(0, 1);
 
 				final Register register = new Register();
+
+				if (registerFile == RegisterFile.BRESLAU_VIII_BIRTH
+						|| registerFile == RegisterFile.BRESLAU_VIII_DEATH
+						|| registerFile == RegisterFile.BRESLAU_VIII_MARRIAGE) {
+					register.setNote(notesCol);
+				}
 
 				final int year = Integer.parseInt(yearCol.substring(1, 5));
 //				if (year < 1908) {

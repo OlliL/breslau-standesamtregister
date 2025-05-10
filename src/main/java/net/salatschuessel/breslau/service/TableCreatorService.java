@@ -15,9 +15,10 @@ import net.salatschuessel.breslau.model.RegisterGroup;
 
 public class TableCreatorService {
 	private static DateTimeFormatter formatterWiki = DateTimeFormatter.ofPattern("dd.MM.");
+	private static String FALLBACK_REGISTER_OFFICE = "ZZZZ";
 
 	public void create(final RegisterFile registerFile, final List<Register> registerList) throws IOException {
-		final var yearRegisterGroupsMap = this.getRegisterMap(registerList);
+		final var yearRegisterGroupsMap = this.getRegisterMap(registerFile, registerList);
 
 		final FileWriter fileWriter = new FileWriter(registerFile.getWikiFile());
 		final PrintWriter printWriter = new PrintWriter(fileWriter);
@@ -26,23 +27,32 @@ public class TableCreatorService {
 		for (final var yearRegisterGroupsMapEntry : yearRegisterGroupsMap.entrySet()) {
 			final int year = yearRegisterGroupsMapEntry.getKey();
 
-			// get max volume number
-			final int numberOfVolumes = yearRegisterGroupsMapEntry.getValue().keySet().stream().filter(i -> i < 99)
-					.mapToInt(i -> i).max().orElse(0);
-			// get number of timeframes
-			final long numberOfTimeframes = yearRegisterGroupsMapEntry.getValue().keySet().stream().filter(i -> i > 99)
-					.count();
+			long numberOfVolumes = 0;
+			long numberOfTimeframes = 0;
+			for (final var registerOfficeGroupsMapEntry : yearRegisterGroupsMapEntry.getValue().entrySet()) {
+				// get max volume number
+				numberOfVolumes += registerOfficeGroupsMapEntry.getValue().keySet().stream().filter(i -> i < 99)
+						.mapToInt(i -> i).max().orElse(0);
+				// get number of timeframes
+				numberOfTimeframes += registerOfficeGroupsMapEntry.getValue().keySet().stream().filter(i -> i > 99)
+						.count();
+			}
 
 			this.writeNewYear(printWriter, year, numberOfVolumes + numberOfTimeframes);
-			int previousVolume = 0;
-			for (final var registerGroupMap : yearRegisterGroupsMapEntry.getValue().entrySet()) {
-				if (registerGroupMap.getKey() < 99)
-					while (++previousVolume < registerGroupMap.getKey()) {
-						this.writeCompletelyMissingVolumeLine(printWriter, previousVolume, numberOfTimeframes);
-					}
-				this.writeVolumeLine(printWriter, registerGroupMap.getKey(), registerGroupMap.getValue(),
-						numberOfTimeframes);
+
+			for (final var registerOfficeGroupsMapEntry : yearRegisterGroupsMapEntry.getValue().entrySet()) {
+				int previousVolume = 0;
+				for (final var registerGroupMap : registerOfficeGroupsMapEntry.getValue().entrySet()) {
+					if (registerGroupMap.getKey() < 99)
+						while (++previousVolume < registerGroupMap.getKey()) {
+							this.writeCompletelyMissingVolumeLine(printWriter, registerOfficeGroupsMapEntry.getKey(),
+									previousVolume, numberOfTimeframes);
+						}
+					this.writeVolumeLine(printWriter, registerFile, registerOfficeGroupsMapEntry.getKey(),
+							registerGroupMap.getKey(), registerGroupMap.getValue(), numberOfTimeframes);
+				}
 			}
+
 			this.writeEndOfYear(printWriter);
 		}
 		this.writeFooter(printWriter);
@@ -51,9 +61,10 @@ public class TableCreatorService {
 
 	}
 
-	private void writeCompletelyMissingVolumeLine(final PrintWriter printWriter, final int volume,
+	private void writeCompletelyMissingVolumeLine(final PrintWriter printWriter, final String registryOffice,
+			final int volume,
 			final long numberOfTimeframes) {
-		this.writeVolumeNumber(printWriter, volume);
+		this.writeVolumeNumber(printWriter, volume, registryOffice);
 		this.writeMissingVolume(printWriter, volume < 99 && numberOfTimeframes == 0);
 		this.writeMissingVolume(printWriter, volume < 99);
 		printWriter.print("|-\n");
@@ -67,32 +78,42 @@ public class TableCreatorService {
 
 	}
 
-	private void writeVolumeLine(final PrintWriter printWriter, final Integer volume,
+	private void writeVolumeLine(final PrintWriter printWriter, final RegisterFile registerFile,
+			final String registryOffice, final Integer volume,
 			final RegisterGroup registerGroup, final long numberOfTimeframes) {
 		if (volume < 99)
-			this.writeVolumeNumber(printWriter, volume);
+			this.writeVolumeNumber(printWriter, volume, registryOffice);
 		else
 			printWriter.print("| \n");
 
 		if (registerGroup.getMainRegister() == null || registerGroup.getMainRegister().isMissing()) {
 			this.writeMissingVolume(printWriter, volume < 99 && numberOfTimeframes == 0);
 		} else {
-			this.writeVolume(printWriter, registerGroup.getMainRegister());
+			this.writeVolume(printWriter, registerFile, registerGroup.getMainRegister());
 		}
 		if (registerGroup.getSecondaryRegister() == null || registerGroup.getSecondaryRegister().isMissing()) {
 			this.writeMissingVolume(printWriter, volume < 99);
 		} else {
-			this.writeVolume(printWriter, registerGroup.getSecondaryRegister());
+			this.writeVolume(printWriter, registerFile, registerGroup.getSecondaryRegister());
 		}
 		printWriter.print("|-\n");
 	}
 
-	private void writeVolumeNumber(final PrintWriter printWriter, final Integer volume) {
-		printWriter.print("| %d\n".formatted(volume));
+	private void writeVolumeNumber(final PrintWriter printWriter, final Integer volume, final String registryOffice) {
+		if (registryOffice.equals(FALLBACK_REGISTER_OFFICE))
+			printWriter.print("| %d\n".formatted(volume));
+		else
+			printWriter.print("| %s %d\n".formatted(registryOffice, volume));
 	}
 
-	private void writeVolume(final PrintWriter printWriter, final Register register) {
-		String note = register.getNote();
+	private void writeVolume(final PrintWriter printWriter, final RegisterFile registerFile, final Register register) {
+		String note = null;
+		if (registerFile != RegisterFile.BRESLAU_VIII_BIRTH
+				&& registerFile != RegisterFile.BRESLAU_VIII_DEATH
+				&& registerFile != RegisterFile.BRESLAU_VIII_MARRIAGE) {
+			note = register.getNote();
+		}
+
 		if (note == null && !register.isOnline() && register.getArchiv() == Archive.STAATSARCHIV_BRESLAU)
 			note = "<i>noch nicht online</i>";
 
@@ -165,14 +186,27 @@ public class TableCreatorService {
 		return i == 0 ? 100 : i;
 	}
 
-	private Map<Integer, Map<Integer, RegisterGroup>> getRegisterMap(final List<Register> registerList) {
-		final Map<Integer, Map<Integer, RegisterGroup>> yearRegisterGroupsMap = new TreeMap<>();
+	private Map<Integer, Map<String, Map<Integer, RegisterGroup>>> getRegisterMap(final RegisterFile registerFile,
+			final List<Register> registerList) {
+		final Map<Integer, Map<String, Map<Integer, RegisterGroup>>> yearRegisterGroupsMap = new TreeMap<>();
 		for (final var register : registerList) {
+
+			final String registerOffice = register.getNote() != null && !register.getNote().isBlank()
+					&& (registerFile == RegisterFile.BRESLAU_VIII_BIRTH
+							|| registerFile == RegisterFile.BRESLAU_VIII_DEATH
+							|| registerFile == RegisterFile.BRESLAU_VIII_MARRIAGE)
+									? register.getNote()
+									: FALLBACK_REGISTER_OFFICE;
+
 			final var registerGroupMap = yearRegisterGroupsMap.computeIfAbsent(register.getYear(),
-					i -> new TreeMap<Integer, RegisterGroup>());
+					i -> new TreeMap<String, Map<Integer, RegisterGroup>>());
 			int volume = this.volumeMapKey(register.getVolume());
+
+			final var registerOfficeGroup = registerGroupMap.computeIfAbsent(registerOffice,
+					i -> new TreeMap<Integer, RegisterGroup>());
+
 			if (volume < 99) {
-				final var registerGroup = registerGroupMap.computeIfAbsent(volume,
+				final var registerGroup = registerOfficeGroup.computeIfAbsent(volume,
 						i -> new RegisterGroup());
 				if (register.isMainRegister()) {
 					registerGroup.setMainRegister(register);
@@ -181,7 +215,7 @@ public class TableCreatorService {
 				}
 			} else {
 				while (true) {
-					final var registerGroup = registerGroupMap.computeIfAbsent(volume,
+					final var registerGroup = registerOfficeGroup.computeIfAbsent(volume,
 							i -> new RegisterGroup());
 					volume++;
 					if (register.isMainRegister()) {
