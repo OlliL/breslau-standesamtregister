@@ -13,7 +13,7 @@
 ! scope="col"| Datum
 ! scope="col"| URL
 |-
-! rowspan="2"|1878
+! rowspan="3"|1878
 | 1
 | 1-280
 | 02.01.-06.04.
@@ -21,6 +21,12 @@
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
+| 281-480
+| 06.04.-15.06.
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373769 Staatsarchiv Breslau]
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
+|-
+| 3
 | 481-679
 | 16.06.-28.08.
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373770 Staatsarchiv Breslau]
