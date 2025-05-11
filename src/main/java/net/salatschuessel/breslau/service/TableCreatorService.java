@@ -186,6 +186,19 @@ public class TableCreatorService {
 		return i == 0 ? 100 : i;
 	}
 
+	/**
+	 * Returns a structured map.
+	 * <ul>
+	 * <li>1st key is the register year</li>
+	 * <li>2nd key is the name of the previous/original registry office (used for
+	 * Breslau VIII only which was formed out of other registry offices)</li>
+	 * <li>3rd key is the register volume number</li>
+	 * </ul>
+	 * 
+	 * @param registerFile
+	 * @param registerList
+	 * @return
+	 */
 	private Map<Integer, Map<String, Map<Integer, RegisterGroup>>> getRegisterMap(final RegisterFile registerFile,
 			final List<Register> registerList) {
 		final Map<Integer, Map<String, Map<Integer, RegisterGroup>>> yearRegisterGroupsMap = new TreeMap<>();
