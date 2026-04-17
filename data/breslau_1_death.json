@@ -1167,49 +1167,49 @@
   "volume" : 2,
   "numberFrom" : 401,
   "numberTo" : 800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-01-31",
+  "dateTo" : "1883-02-28",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371465",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 3,
   "numberFrom" : 801,
   "numberTo" : 1200,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-02-28",
+  "dateTo" : "1883-03-31",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371466",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 4,
   "numberFrom" : 1201,
   "numberTo" : 1600,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-03-31",
+  "dateTo" : "1883-04-27",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371467",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 5,
   "numberFrom" : 1601,
   "numberTo" : 2000,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-04-27",
+  "dateTo" : "1883-05-23",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371468",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 5,
@@ -1227,37 +1227,37 @@
   "volume" : 6,
   "numberFrom" : 2001,
   "numberTo" : 2400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-05-23",
+  "dateTo" : "1883-06-18",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371469",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 7,
   "numberFrom" : 2401,
   "numberTo" : 2799,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-06-18",
+  "dateTo" : "1883-07-12",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371470",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 8,
   "numberFrom" : 2800,
   "numberTo" : 3199,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-07-12",
+  "dateTo" : "1883-08-04",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371471",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 8,
@@ -1275,37 +1275,37 @@
   "volume" : 9,
   "numberFrom" : 3200,
   "numberTo" : 3599,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-08-04",
+  "dateTo" : "1883-09-01",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371472",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 10,
   "numberFrom" : 3600,
   "numberTo" : 3999,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-09-01",
+  "dateTo" : "1883-10-01",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371473",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 11,
   "numberFrom" : 4000,
   "numberTo" : 4399,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-10-01",
+  "dateTo" : "1883-11-03",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371474",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1883,
   "volume" : 11,
@@ -1335,13 +1335,13 @@
   "volume" : 13,
   "numberFrom" : 4800,
   "numberTo" : 5108,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1883-12-08",
+  "dateTo" : "1883-12-31",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371475",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 1,
@@ -1359,13 +1359,13 @@
   "volume" : 2,
   "numberFrom" : 401,
   "numberTo" : 800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-01-28",
+  "dateTo" : "1884-02-26",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371476",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 2,
@@ -1407,25 +1407,25 @@
   "volume" : 5,
   "numberFrom" : 1601,
   "numberTo" : 2000,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-04-16",
+  "dateTo" : "1884-05-12",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371477",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 6,
   "numberFrom" : 2001,
   "numberTo" : 2400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-05-12",
+  "dateTo" : "1884-06-10",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371478",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 7,
@@ -1443,37 +1443,37 @@
   "volume" : 8,
   "numberFrom" : 2801,
   "numberTo" : 3200,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-07-05",
+  "dateTo" : "1884-07-24",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371479",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 9,
   "numberFrom" : 3201,
   "numberTo" : 3600,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-07-24",
+  "dateTo" : "1884-08-19",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371480",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 10,
   "numberFrom" : 3601,
   "numberTo" : 4000,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-08-19",
+  "dateTo" : "1884-09-17",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371481",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 10,
@@ -1489,39 +1489,39 @@
 }, {
   "year" : 1884,
   "volume" : 11,
-  "numberFrom" : 4139,
+  "numberFrom" : 4001,
   "numberTo" : 4400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-09-17",
+  "dateTo" : "1884-10-14",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371482",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 12,
   "numberFrom" : 4401,
   "numberTo" : 4798,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-10-15",
+  "dateTo" : "1884-11-17",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371483",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 13,
   "numberFrom" : 4799,
   "numberTo" : 5198,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-11-17",
+  "dateTo" : "1884-12-17",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371484",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1884,
   "volume" : 14,
@@ -1551,61 +1551,61 @@
   "volume" : 1,
   "numberFrom" : 1,
   "numberTo" : 400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-01-01",
+  "dateTo" : "1884-01-29",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371485",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 2,
   "numberFrom" : 401,
   "numberTo" : 800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-01-29",
+  "dateTo" : "1884-03-01",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371486",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 3,
   "numberFrom" : 801,
   "numberTo" : 1200,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-03-01",
+  "dateTo" : "1884-03-30",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371487",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 4,
   "numberFrom" : 1201,
   "numberTo" : 1600,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-03-30",
+  "dateTo" : "1884-04-24",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371488",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 5,
   "numberFrom" : 1601,
   "numberTo" : 2000,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1884-04-24",
+  "dateTo" : "1884-05-19",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371489",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 5,
@@ -1623,37 +1623,37 @@
   "volume" : 6,
   "numberFrom" : 2001,
   "numberTo" : 2400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1885-05-19",
+  "dateTo" : "1885-06-15",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371490",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 7,
   "numberFrom" : 2401,
   "numberTo" : 2800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1885-06-15",
+  "dateTo" : "1885-07-07",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371491",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 8,
   "numberFrom" : 2801,
   "numberTo" : 3180,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1885-07-07",
+  "dateTo" : "1885-07-24",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371492",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 9,
@@ -1683,25 +1683,25 @@
   "volume" : 11,
   "numberFrom" : 3981,
   "numberTo" : 4380,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1885-09-18",
+  "dateTo" : "1885-10-23",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371493",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 12,
   "numberFrom" : 4381,
   "numberTo" : 4780,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1885-10-23",
+  "dateTo" : "1885-11-25",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371494",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1885,
   "volume" : 13,
@@ -1719,13 +1719,13 @@
   "volume" : 14,
   "numberFrom" : 5179,
   "numberTo" : 5223,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1885-12-28",
+  "dateTo" : "1885-12-31",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371495",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1886,
   "volume" : 1,
@@ -1767,13 +1767,13 @@
   "volume" : 3,
   "numberFrom" : 801,
   "numberTo" : 1200,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1886-03-07",
+  "dateTo" : "1886-04-02",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371497",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1886,
   "volume" : 3,
@@ -1791,13 +1791,13 @@
   "volume" : 4,
   "numberFrom" : 1201,
   "numberTo" : 1600,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1886-04-02",
+  "dateTo" : "1886-05-01",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371498",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1886,
   "volume" : 5,
@@ -1815,25 +1815,25 @@
   "volume" : 6,
   "numberFrom" : 2001,
   "numberTo" : 2400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1886-05-26",
+  "dateTo" : "1886-06-21",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371499",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1886,
   "volume" : 7,
   "numberFrom" : 2401,
   "numberTo" : 2800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1886-06-21",
+  "dateTo" : "1886-07-20",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371500",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1886,
   "volume" : 8,
@@ -1899,13 +1899,13 @@
   "volume" : 13,
   "numberFrom" : 4800,
   "numberTo" : 5199,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1886-11-24",
+  "dateTo" : "1886-12-22",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371501",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1886,
   "volume" : 13,
@@ -1935,13 +1935,13 @@
   "volume" : 1,
   "numberFrom" : 1,
   "numberTo" : 400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-01-01",
+  "dateTo" : "1887-01-27",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371502",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 2,
@@ -1959,25 +1959,25 @@
   "volume" : 3,
   "numberFrom" : 801,
   "numberTo" : 1200,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-01-24",
+  "dateTo" : "1887-03-24",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371503",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 4,
   "numberFrom" : 1201,
   "numberTo" : 1600,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-03-25",
+  "dateTo" : "1887-04-22",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371504",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 5,
@@ -1995,13 +1995,13 @@
   "volume" : 6,
   "numberFrom" : 2001,
   "numberTo" : 2400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-05-18",
+  "dateTo" : "1887-06-14",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371505",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 6,
@@ -2019,25 +2019,25 @@
   "volume" : 7,
   "numberFrom" : 2401,
   "numberTo" : 2800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-06-14",
+  "dateTo" : "1887-07-11",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371506",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 8,
   "numberFrom" : 2801,
   "numberTo" : 3200,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-07-11",
+  "dateTo" : "1887-08-01",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371507",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 9,
@@ -2055,49 +2055,49 @@
   "volume" : 10,
   "numberFrom" : 3600,
   "numberTo" : 4000,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-08-23",
+  "dateTo" : "1887-09-19",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371508",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 11,
   "numberFrom" : 4001,
   "numberTo" : 4400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-09-19",
+  "dateTo" : "1887-10-22",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371509",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 12,
   "numberFrom" : 4401,
   "numberTo" : 4800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-10-22",
+  "dateTo" : "1887-11-21",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371510",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 13,
   "numberFrom" : 4801,
   "numberTo" : 5200,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1887-11-21",
+  "dateTo" : "1887-12-23",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371511",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1887,
   "volume" : 14,
@@ -2115,37 +2115,37 @@
   "volume" : 1,
   "numberFrom" : 1,
   "numberTo" : 400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-01-01",
+  "dateTo" : "1888-01-28",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371512",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 2,
   "numberFrom" : 401,
   "numberTo" : 800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-01-28",
+  "dateTo" : "1888-02-27",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371513",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 3,
   "numberFrom" : 801,
   "numberTo" : 1200,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-02-27",
+  "dateTo" : "1888-03-29",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371514",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 3,
@@ -2163,25 +2163,25 @@
   "volume" : 4,
   "numberFrom" : 1201,
   "numberTo" : 1600,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-03-29",
+  "dateTo" : "1888-04-28",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371515",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 5,
   "numberFrom" : 1601,
   "numberTo" : 2000,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-04-28",
+  "dateTo" : "1888-05-24",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371516",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 5,
@@ -2199,25 +2199,25 @@
   "volume" : 6,
   "numberFrom" : 2001,
   "numberTo" : 2400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-05-24",
+  "dateTo" : "1888-06-22",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371517",
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 7,
   "numberFrom" : 2401,
   "numberTo" : 2800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-06-22",
+  "dateTo" : "1888-07-18",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371518",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 7,
@@ -2247,13 +2247,13 @@
   "volume" : 9,
   "numberFrom" : 3201,
   "numberTo" : 3600,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-08-16",
+  "dateTo" : "1888-09-15",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371519",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 9,
@@ -2271,37 +2271,37 @@
   "volume" : 10,
   "numberFrom" : 3601,
   "numberTo" : 4000,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-09-15",
+  "dateTo" : "1888-10-16",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371520",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 11,
   "numberFrom" : 4001,
   "numberTo" : 4400,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-10-16",
+  "dateTo" : "1888-11-19",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371521",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 12,
   "numberFrom" : 4401,
   "numberTo" : 4800,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1888-11-19",
+  "dateTo" : "1888-12-20",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28371522",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : false
+  "online" : true
 }, {
   "year" : 1888,
   "volume" : 13,
@@ -5385,7 +5385,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1914,
   "volume" : 2,
@@ -5397,7 +5397,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1914,
   "volume" : 3,
@@ -5409,7 +5409,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1914,
   "volume" : 4,
@@ -5421,7 +5421,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1914,
   "volume" : 5,
@@ -5445,7 +5445,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1914,
   "volume" : 7,
@@ -5457,7 +5457,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1915,
   "volume" : 1,
@@ -5469,7 +5469,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1915,
   "volume" : 2,
@@ -5481,7 +5481,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1915,
   "volume" : 3,
@@ -5493,7 +5493,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1915,
   "volume" : 3,
@@ -5529,7 +5529,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1915,
   "volume" : 5,
@@ -5553,7 +5553,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1915,
   "volume" : 7,
@@ -5565,7 +5565,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1915,
   "volume" : 7,
@@ -5577,7 +5577,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1915,
   "volume" : 8,
@@ -5613,7 +5613,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1916,
   "volume" : 2,
@@ -5625,7 +5625,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1916,
   "volume" : 3,
@@ -5637,7 +5637,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1916,
   "volume" : 3,
@@ -5661,7 +5661,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1916,
   "volume" : 5,
@@ -5673,7 +5673,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1916,
   "volume" : 5,
@@ -5721,7 +5721,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1916,
   "volume" : 8,
@@ -5745,7 +5745,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1916,
   "volume" : 9,
@@ -5769,7 +5769,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1917,
   "volume" : 1,
@@ -5793,7 +5793,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1917,
   "volume" : 3,
@@ -5805,7 +5805,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1917,
   "volume" : 4,
@@ -5817,7 +5817,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1917,
   "volume" : 5,
@@ -5829,7 +5829,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1917,
   "volume" : 6,
@@ -5841,7 +5841,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1917,
   "volume" : 6,
@@ -5865,7 +5865,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1917,
   "volume" : 8,
@@ -5877,7 +5877,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1918,
   "volume" : 1,
@@ -5889,7 +5889,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1918,
   "volume" : 2,
@@ -5913,7 +5913,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1918,
   "volume" : 3,
@@ -5937,7 +5937,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1918,
   "volume" : 5,
@@ -5973,7 +5973,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1918,
   "volume" : 7,
@@ -5997,7 +5997,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1918,
   "volume" : 9,
@@ -6009,7 +6009,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1918,
   "volume" : 9,
@@ -6045,7 +6045,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1919,
   "volume" : 2,
@@ -6057,7 +6057,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1919,
   "volume" : 3,
@@ -6069,7 +6069,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1919,
   "volume" : 4,
@@ -6081,7 +6081,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1919,
   "volume" : 5,
@@ -6093,7 +6093,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1919,
   "volume" : 5,
@@ -6117,7 +6117,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1919,
   "volume" : 6,
@@ -6141,7 +6141,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1919,
   "volume" : 7,
@@ -6165,7 +6165,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1920,
   "volume" : 2,
@@ -6189,7 +6189,7 @@
   "note" : null,
   "mainRegister" : false,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1920,
   "volume" : 4,
@@ -6201,7 +6201,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1920,
   "volume" : 5,
@@ -6213,7 +6213,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1920,
   "volume" : 5,
@@ -6237,7 +6237,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1920,
   "volume" : 6,
@@ -6261,7 +6261,7 @@
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
-  "online" : true
+  "online" : false
 }, {
   "year" : 1920,
   "volume" : 7,
@@ -6276,18 +6276,6 @@
   "online" : true
 }, {
   "year" : 1921,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : "1921-01-01",
-  "dateTo" : "1921-12-31",
-  "url" : "https://bip.um.wroc.pl/",
-  "note" : null,
-  "mainRegister" : true,
-  "missing" : false,
-  "online" : false
-}, {
-  "year" : 1921,
   "volume" : 1,
   "numberFrom" : 1,
   "numberTo" : null,
@@ -6313,38 +6301,38 @@
 }, {
   "year" : 1921,
   "volume" : 3,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "numberFrom" : 774,
+  "numberTo" : 1159,
   "dateFrom" : null,
   "dateTo" : null,
-  "url" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972267",
   "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
+  "mainRegister" : true,
+  "missing" : false,
   "online" : false
 }, {
   "year" : 1921,
   "volume" : 4,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "numberFrom" : 1160,
+  "numberTo" : 1545,
   "dateFrom" : null,
   "dateTo" : null,
-  "url" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972268",
   "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
+  "mainRegister" : true,
+  "missing" : false,
   "online" : false
 }, {
   "year" : 1921,
   "volume" : 5,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "numberFrom" : 1546,
+  "numberTo" : 2048,
   "dateFrom" : null,
   "dateTo" : null,
-  "url" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972269",
   "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
+  "mainRegister" : true,
+  "missing" : false,
   "online" : false
 }, {
   "year" : 1921,
@@ -6360,120 +6348,84 @@
   "online" : false
 }, {
   "year" : 1922,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 387,
   "dateFrom" : "1922-01-01",
-  "dateTo" : "1922-04-13",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972270",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
   "online" : false
 }, {
   "year" : 1922,
-  "volume" : 0,
+  "volume" : 2,
+  "numberFrom" : 388,
+  "numberTo" : 785,
+  "dateFrom" : null,
+  "dateTo" : "1922-04-13",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972271",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1922,
+  "volume" : 3,
   "numberFrom" : null,
   "numberTo" : null,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : null,
+  "note" : null,
+  "mainRegister" : false,
+  "missing" : true,
+  "online" : false
+}, {
+  "year" : 1922,
+  "volume" : 4,
+  "numberFrom" : 1176,
+  "numberTo" : 1563,
   "dateFrom" : "1922-06-12",
   "dateTo" : "1922-08-24",
-  "url" : "https://bip.um.wroc.pl/",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972272",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
   "online" : false
 }, {
   "year" : 1922,
-  "volume" : 0,
+  "volume" : 5,
   "numberFrom" : null,
   "numberTo" : null,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : null,
+  "note" : null,
+  "mainRegister" : false,
+  "missing" : true,
+  "online" : false
+}, {
+  "year" : 1922,
+  "volume" : 6,
+  "numberFrom" : 1952,
+  "numberTo" : 2212,
   "dateFrom" : "1922-11-10",
   "dateTo" : "1922-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972273",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
   "online" : false
 }, {
-  "year" : 1922,
+  "year" : 1923,
   "volume" : 1,
   "numberFrom" : 1,
-  "numberTo" : null,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
-  "online" : false
-}, {
-  "year" : 1922,
-  "volume" : 2,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
-  "online" : false
-}, {
-  "year" : 1922,
-  "volume" : 3,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
-  "online" : false
-}, {
-  "year" : 1922,
-  "volume" : 4,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
-  "online" : false
-}, {
-  "year" : 1922,
-  "volume" : 5,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
-  "online" : false
-}, {
-  "year" : 1922,
-  "volume" : 6,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
-  "online" : false
-}, {
-  "year" : 1923,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "numberTo" : 393,
   "dateFrom" : "1923-01-01",
   "dateTo" : "1923-02-27",
-  "url" : "https://bip.um.wroc.pl/",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972274",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
@@ -6552,18 +6504,6 @@
   "online" : false
 }, {
   "year" : 1924,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : "1924-05-09",
-  "dateTo" : "1924-10-27",
-  "url" : "https://bip.um.wroc.pl/",
-  "note" : null,
-  "mainRegister" : true,
-  "missing" : false,
-  "online" : false
-}, {
-  "year" : 1924,
   "volume" : 1,
   "numberFrom" : 1,
   "numberTo" : null,
@@ -6589,14 +6529,26 @@
 }, {
   "year" : 1924,
   "volume" : 3,
-  "numberFrom" : null,
+  "numberFrom" : 768,
   "numberTo" : 1157,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
+  "dateFrom" : "1924-05-09",
+  "dateTo" : "1924-07-29",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972275",
   "note" : null,
   "mainRegister" : false,
-  "missing" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1924,
+  "volume" : 4,
+  "numberFrom" : 1148,
+  "numberTo" : 1533,
+  "dateFrom" : null,
+  "dateTo" : "1924-10-27",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972276",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
   "online" : false
 }, {
   "year" : 1924,
@@ -6624,39 +6576,39 @@
   "online" : false
 }, {
   "year" : 1925,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 383,
   "dateFrom" : "1925-01-02",
-  "dateTo" : "1925-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972277",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
   "online" : false
 }, {
   "year" : 1925,
-  "volume" : 1,
-  "numberFrom" : 1,
-  "numberTo" : null,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
-  "online" : false
-}, {
-  "year" : 1925,
   "volume" : 2,
-  "numberFrom" : null,
+  "numberFrom" : 392,
   "numberTo" : 781,
   "dateFrom" : null,
   "dateTo" : null,
-  "url" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972278",
   "note" : null,
   "mainRegister" : false,
-  "missing" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1925,
+  "volume" : 3,
+  "numberFrom" : 770,
+  "numberTo" : 1147,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972279",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
   "online" : false
 }, {
   "year" : 1925,
@@ -6673,35 +6625,23 @@
 }, {
   "year" : 1925,
   "volume" : 4,
-  "numberFrom" : 1170,
-  "numberTo" : null,
+  "numberFrom" : 1148,
+  "numberTo" : 1537,
   "dateFrom" : null,
   "dateTo" : null,
-  "url" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972280",
   "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
+  "mainRegister" : true,
+  "missing" : false,
   "online" : false
 }, {
   "year" : 1925,
   "volume" : 5,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "numberFrom" : 1538,
+  "numberTo" : 1738,
   "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
-  "online" : false
-}, {
-  "year" : 1926,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : "1926-03-22",
-  "dateTo" : "1926-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : "1925-12-31",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972281",
   "note" : null,
   "mainRegister" : true,
   "missing" : false,
@@ -6721,26 +6661,38 @@
 }, {
   "year" : 1926,
   "volume" : 2,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : null,
+  "numberFrom" : 388,
+  "numberTo" : 765,
+  "dateFrom" : "1926-03-22",
   "dateTo" : null,
-  "url" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43335479",
   "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
+  "mainRegister" : true,
+  "missing" : false,
   "online" : false
 }, {
   "year" : 1926,
   "volume" : 3,
-  "numberFrom" : null,
-  "numberTo" : 1161,
+  "numberFrom" : 766,
+  "numberTo" : 1151,
   "dateFrom" : null,
   "dateTo" : null,
-  "url" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43335480",
   "note" : null,
-  "mainRegister" : false,
-  "missing" : true,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1926,
+  "volume" : 4,
+  "numberFrom" : 1152,
+  "numberTo" : 1527,
+  "dateFrom" : null,
+  "dateTo" : "1926-11-16",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43335481",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
   "online" : false
 }, {
   "year" : 1926,
