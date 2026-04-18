@@ -922,7 +922,7 @@
 | 4
 | 1166-1277
 | 07.12.-31.12.
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336652 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336652 Staatsarchiv Breslau]<br>siehe auch Sig. [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336682 82/1429/0/3/34]
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 ! colspan="8"|
@@ -938,13 +938,13 @@
 |-
 | 2
 | 398-787
-| ?-?
+| 01.08.-?
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336654 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 3
 | 788-1163
-| ?-?
+| 01.08.-?
 | [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336655 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 748-1117
 | 18.07.-15.11.

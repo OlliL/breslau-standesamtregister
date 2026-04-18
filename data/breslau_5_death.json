@@ -3,25 +3,25 @@
   "volume" : 1,
   "numberFrom" : 1,
   "numberTo" : 377,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1920-01-01",
+  "dateTo" : "1920-09-24",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42675495",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1920,
   "volume" : 2,
   "numberFrom" : 378,
   "numberTo" : 731,
-  "dateFrom" : null,
-  "dateTo" : null,
+  "dateFrom" : "1920-09-24",
+  "dateTo" : "1920-12-31",
   "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42675496",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1920,
   "volume" : 2,
@@ -31,21 +31,69 @@
   "dateTo" : "1920-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007882-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1921,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 381,
   "dateFrom" : "1921-01-01",
-  "dateTo" : "1921-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : "1921-03-23",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972422",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
+}, {
+  "year" : 1921,
+  "volume" : 2,
+  "numberFrom" : 382,
+  "numberTo" : 759,
+  "dateFrom" : "1921-03-24",
+  "dateTo" : "1921-06-11",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972423",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1921,
+  "volume" : 3,
+  "numberFrom" : 760,
+  "numberTo" : 1149,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972424",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1921,
+  "volume" : 4,
+  "numberFrom" : 1150,
+  "numberTo" : 1535,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972425",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1921,
+  "volume" : 5,
+  "numberFrom" : 1536,
+  "numberTo" : 1732,
+  "dateFrom" : null,
+  "dateTo" : "1921-12-31",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972426",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
 }, {
   "year" : 1921,
   "volume" : 1,
@@ -55,9 +103,9 @@
   "dateTo" : "1921-03-23",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007883-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1921,
   "volume" : 2,
@@ -67,9 +115,9 @@
   "dateTo" : "1921-06-11",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007884-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1921,
   "volume" : 3,
@@ -79,9 +127,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1921,
   "volume" : 4,
@@ -91,9 +139,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1921,
   "volume" : 5,
@@ -103,21 +151,57 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1922,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : "1922-03-05",
-  "dateTo" : "1922-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 391,
+  "dateFrom" : "1922-01-01",
+  "dateTo" : "1922-03-05",
+  "url" : null,
   "note" : null,
+  "mainRegister" : true,
+  "missing" : true,
+  "online" : false
+}, {
+  "year" : 1922,
+  "volume" : 2,
+  "numberFrom" : 392,
+  "numberTo" : 777,
+  "dateFrom" : "1922-03-05",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972427",
+  "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
+}, {
+  "year" : 1922,
+  "volume" : 3,
+  "numberFrom" : 778,
+  "numberTo" : 1155,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972428",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1922,
+  "volume" : 4,
+  "numberFrom" : 1156,
+  "numberTo" : 1722,
+  "dateFrom" : null,
+  "dateTo" : "1922-12-31",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972429",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
 }, {
   "year" : 1922,
   "volume" : 1,
@@ -127,9 +211,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1922,
   "volume" : 2,
@@ -139,9 +223,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1922,
   "volume" : 3,
@@ -151,9 +235,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1922,
   "volume" : 4,
@@ -163,33 +247,57 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
-}, {
-  "year" : 1922,
-  "volume" : 5,
-  "numberFrom" : null,
-  "numberTo" : null,
-  "dateFrom" : null,
-  "dateTo" : null,
-  "url" : null,
-  "note" : null,
-  "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1923,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 379,
   "dateFrom" : "1923-01-01",
-  "dateTo" : "1923-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : "1923-03-20",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972430",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
+}, {
+  "year" : 1923,
+  "volume" : 2,
+  "numberFrom" : 380,
+  "numberTo" : 757,
+  "dateFrom" : "1923-03-20",
+  "dateTo" : "1923-06-11",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972431",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1923,
+  "volume" : 3,
+  "numberFrom" : 758,
+  "numberTo" : 1132,
+  "dateFrom" : "1923-06-11",
+  "dateTo" : "1923-09-08",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972432",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1923,
+  "volume" : 4,
+  "numberFrom" : 1132,
+  "numberTo" : 1535,
+  "dateFrom" : "1923-09-08",
+  "dateTo" : "1923-12-31",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972433",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
 }, {
   "year" : 1923,
   "volume" : 1,
@@ -199,9 +307,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1923,
   "volume" : 2,
@@ -211,9 +319,9 @@
   "dateTo" : "1923-06-11",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007885-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1923,
   "volume" : 3,
@@ -223,9 +331,9 @@
   "dateTo" : "1923-09-08",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007886-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1923,
   "volume" : 4,
@@ -235,9 +343,9 @@
   "dateTo" : "1923-12-22",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007887-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1923,
   "volume" : 5,
@@ -247,21 +355,57 @@
   "dateTo" : "1923-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007888-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1924,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 367,
   "dateFrom" : "1924-01-01",
-  "dateTo" : "1924-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : "1924-03-24",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972434",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
+}, {
+  "year" : 1924,
+  "volume" : 2,
+  "numberFrom" : 368,
+  "numberTo" : 729,
+  "dateFrom" : "1924-03-25",
+  "dateTo" : "1924-06-23",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972435",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1924,
+  "volume" : 3,
+  "numberFrom" : 730,
+  "numberTo" : 1103,
+  "dateFrom" : "1924-06-23",
+  "dateTo" : "1924-10-13",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972436",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1924,
+  "volume" : 4,
+  "numberFrom" : 1042,
+  "numberTo" : 1371,
+  "dateFrom" : "1924-10-13",
+  "dateTo" : "1924-12-31",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972437",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
 }, {
   "year" : 1924,
   "volume" : 1,
@@ -271,9 +415,9 @@
   "dateTo" : "1924-03-24",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007889-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1924,
   "volume" : 2,
@@ -283,9 +427,9 @@
   "dateTo" : "1924-06-23",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007890-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1924,
   "volume" : 3,
@@ -295,9 +439,9 @@
   "dateTo" : "1924-10-13",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007891-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1924,
   "volume" : 4,
@@ -307,21 +451,57 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1925,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 361,
   "dateFrom" : "1925-01-01",
-  "dateTo" : "1925-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972438",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
+}, {
+  "year" : 1925,
+  "volume" : 2,
+  "numberFrom" : 362,
+  "numberTo" : 747,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972439",
+  "note" : "721-724 fehlen",
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1925,
+  "volume" : 3,
+  "numberFrom" : 748,
+  "numberTo" : 1081,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972440",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1925,
+  "volume" : 4,
+  "numberFrom" : 1082,
+  "numberTo" : 1319,
+  "dateFrom" : null,
+  "dateTo" : "1925-12-31",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/42972441",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
 }, {
   "year" : 1925,
   "volume" : 1,
@@ -331,33 +511,33 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1925,
   "volume" : 2,
   "numberFrom" : 368,
-  "numberTo" : 729,
+  "numberTo" : 725,
   "dateFrom" : "1925-04-03",
   "dateTo" : "1925-07-06",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007892-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1925,
   "volume" : 3,
-  "numberFrom" : 730,
+  "numberFrom" : 726,
   "numberTo" : null,
   "dateFrom" : null,
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1925,
   "volume" : 4,
@@ -367,21 +547,57 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1926,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 381,
   "dateFrom" : "1926-01-01",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336671",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1926,
+  "volume" : 2,
+  "numberFrom" : 382,
+  "numberTo" : 741,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336672",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1926,
+  "volume" : 3,
+  "numberFrom" : 742,
+  "numberTo" : 1111,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336673",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1926,
+  "volume" : 4,
+  "numberFrom" : 1112,
+  "numberTo" : 1268,
+  "dateFrom" : null,
   "dateTo" : "1926-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336674",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1926,
   "volume" : 1,
@@ -391,9 +607,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1926,
   "volume" : 2,
@@ -403,9 +619,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1926,
   "volume" : 3,
@@ -415,9 +631,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1926,
   "volume" : 4,
@@ -427,21 +643,57 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1927,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 377,
   "dateFrom" : "1927-01-01",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336675",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1927,
+  "volume" : 2,
+  "numberFrom" : 378,
+  "numberTo" : 745,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336676",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1927,
+  "volume" : 3,
+  "numberFrom" : 746,
+  "numberTo" : 1131,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336677",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1927,
+  "volume" : 4,
+  "numberFrom" : 1132,
+  "numberTo" : 1312,
+  "dateFrom" : null,
   "dateTo" : "1927-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336678",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1927,
   "volume" : 1,
@@ -451,9 +703,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1927,
   "volume" : 2,
@@ -463,9 +715,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1927,
   "volume" : 3,
@@ -475,9 +727,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1927,
   "volume" : 4,
@@ -487,21 +739,57 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1928,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 391,
   "dateFrom" : "1928-01-01",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336679",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1928,
+  "volume" : 2,
+  "numberFrom" : 392,
+  "numberTo" : 775,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336680",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1928,
+  "volume" : 3,
+  "numberFrom" : 776,
+  "numberTo" : 1171,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336681",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1928,
+  "volume" : 4,
+  "numberFrom" : 1172,
+  "numberTo" : 1286,
+  "dateFrom" : null,
   "dateTo" : "1928-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336683",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1928,
   "volume" : 1,
@@ -511,9 +799,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1928,
   "volume" : 2,
@@ -523,9 +811,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1928,
   "volume" : 3,
@@ -535,9 +823,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1928,
   "volume" : 4,
@@ -547,21 +835,57 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1929,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 397,
   "dateFrom" : "1929-01-01",
-  "dateTo" : "1929-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336684",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
+}, {
+  "year" : 1929,
+  "volume" : 2,
+  "numberFrom" : 398,
+  "numberTo" : 787,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336685",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1929,
+  "volume" : 3,
+  "numberFrom" : 788,
+  "numberTo" : 1169,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336686",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1929,
+  "volume" : 4,
+  "numberFrom" : 1170,
+  "numberTo" : 1484,
+  "dateFrom" : null,
+  "dateTo" : "1929-12-31",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336687",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
 }, {
   "year" : 1929,
   "volume" : 1,
@@ -571,9 +895,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1929,
   "volume" : 2,
@@ -583,9 +907,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1929,
   "volume" : 3,
@@ -595,9 +919,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1929,
   "volume" : 4,
@@ -607,21 +931,57 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1930,
-  "volume" : 0,
-  "numberFrom" : null,
-  "numberTo" : null,
+  "volume" : 1,
+  "numberFrom" : 1,
+  "numberTo" : 389,
   "dateFrom" : "1930-01-01",
-  "dateTo" : "1930-12-31",
-  "url" : "https://bip.um.wroc.pl/",
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336688",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
+}, {
+  "year" : 1930,
+  "volume" : 2,
+  "numberFrom" : 390,
+  "numberTo" : 783,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336689",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1930,
+  "volume" : 3,
+  "numberFrom" : 784,
+  "numberTo" : 1173,
+  "dateFrom" : null,
+  "dateTo" : null,
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336690",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
+}, {
+  "year" : 1930,
+  "volume" : 4,
+  "numberFrom" : 1174,
+  "numberTo" : 1243,
+  "dateFrom" : null,
+  "dateTo" : "1930-12-31",
+  "url" : "https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/43336691",
+  "note" : null,
+  "mainRegister" : true,
+  "missing" : false,
+  "online" : false
 }, {
   "year" : 1930,
   "volume" : 1,
@@ -631,9 +991,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1930,
   "volume" : 2,
@@ -643,9 +1003,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1930,
   "volume" : 3,
@@ -655,9 +1015,9 @@
   "dateTo" : "1930-12-08",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007893-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1930,
   "volume" : 4,
@@ -667,9 +1027,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1931,
   "volume" : 0,
@@ -679,9 +1039,9 @@
   "dateTo" : "1931-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1931,
   "volume" : 1,
@@ -691,9 +1051,9 @@
   "dateTo" : "1931-04-15",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007894-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1931,
   "volume" : 2,
@@ -703,9 +1063,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1931,
   "volume" : 3,
@@ -715,9 +1075,9 @@
   "dateTo" : "1931-11-30",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007895-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1931,
   "volume" : 4,
@@ -727,9 +1087,9 @@
   "dateTo" : "1931-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007896-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1932,
   "volume" : 0,
@@ -739,9 +1099,9 @@
   "dateTo" : "1932-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1932,
   "volume" : 1,
@@ -751,9 +1111,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1932,
   "volume" : 2,
@@ -763,9 +1123,9 @@
   "dateTo" : "1932-07-15",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007897-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1932,
   "volume" : 3,
@@ -775,9 +1135,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1932,
   "volume" : 4,
@@ -787,9 +1147,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1933,
   "volume" : 0,
@@ -799,9 +1159,9 @@
   "dateTo" : "1933-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1933,
   "volume" : 1,
@@ -811,9 +1171,9 @@
   "dateTo" : "1933-04-08",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007898-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1933,
   "volume" : 2,
@@ -823,9 +1183,9 @@
   "dateTo" : "1933-07-22",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007899-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1933,
   "volume" : 3,
@@ -835,9 +1195,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1933,
   "volume" : 4,
@@ -847,9 +1207,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1934,
   "volume" : 0,
@@ -859,9 +1219,9 @@
   "dateTo" : "1934-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1934,
   "volume" : 1,
@@ -871,9 +1231,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1934,
   "volume" : 2,
@@ -883,9 +1243,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1934,
   "volume" : 3,
@@ -895,9 +1255,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1934,
   "volume" : 4,
@@ -907,9 +1267,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1935,
   "volume" : 0,
@@ -919,9 +1279,9 @@
   "dateTo" : "1935-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1935,
   "volume" : 1,
@@ -931,9 +1291,9 @@
   "dateTo" : "1935-03-27",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007900-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1935,
   "volume" : 2,
@@ -943,9 +1303,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1935,
   "volume" : 3,
@@ -955,9 +1315,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1935,
   "volume" : 4,
@@ -967,9 +1327,9 @@
   "dateTo" : "1935-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007901-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1936,
   "volume" : 0,
@@ -979,9 +1339,9 @@
   "dateTo" : "1936-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1936,
   "volume" : 1,
@@ -991,9 +1351,9 @@
   "dateTo" : "1936-03-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007902-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1936,
   "volume" : 2,
@@ -1003,9 +1363,9 @@
   "dateTo" : "1936-06-22",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007903-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1936,
   "volume" : 3,
@@ -1015,9 +1375,9 @@
   "dateTo" : "1936-09-28",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007904-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1936,
   "volume" : 4,
@@ -1027,9 +1387,9 @@
   "dateTo" : "1936-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007905-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1937,
   "volume" : 0,
@@ -1039,9 +1399,9 @@
   "dateTo" : "1937-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1937,
   "volume" : 1,
@@ -1051,9 +1411,9 @@
   "dateTo" : "1937-03-19",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007906-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1937,
   "volume" : 2,
@@ -1063,9 +1423,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1937,
   "volume" : 3,
@@ -1075,9 +1435,9 @@
   "dateTo" : "1937-09-15",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007907-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1937,
   "volume" : 4,
@@ -1087,9 +1447,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1938,
   "volume" : 0,
@@ -1099,9 +1459,9 @@
   "dateTo" : "1938-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1938,
   "volume" : 1,
@@ -1111,9 +1471,9 @@
   "dateTo" : "1938-03-25",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007908-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1938,
   "volume" : 2,
@@ -1123,9 +1483,9 @@
   "dateTo" : "1938-05-27",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007909-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1938,
   "volume" : 3,
@@ -1135,9 +1495,9 @@
   "dateTo" : "1938-06-30",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007910-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1938,
   "volume" : 4,
@@ -1147,9 +1507,9 @@
   "dateTo" : "1938-10-07",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007911-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1938,
   "volume" : 5,
@@ -1159,9 +1519,9 @@
   "dateTo" : "1938-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007912-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1939,
   "volume" : 0,
@@ -1171,9 +1531,9 @@
   "dateTo" : "1939-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1939,
   "volume" : 1,
@@ -1183,9 +1543,9 @@
   "dateTo" : "1939-03-23",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007913-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1939,
   "volume" : 2,
@@ -1195,9 +1555,9 @@
   "dateTo" : "1939-06-15",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007914-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1939,
   "volume" : 3,
@@ -1207,9 +1567,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1939,
   "volume" : 4,
@@ -1219,9 +1579,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1939,
   "volume" : 5,
@@ -1231,9 +1591,9 @@
   "dateTo" : "1939-12-30",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007915-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1940,
   "volume" : 0,
@@ -1243,9 +1603,9 @@
   "dateTo" : "1940-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1940,
   "volume" : 1,
@@ -1255,9 +1615,9 @@
   "dateTo" : "1940-02-23",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007916-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1940,
   "volume" : 2,
@@ -1267,9 +1627,9 @@
   "dateTo" : "1940-05-04",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007917-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1940,
   "volume" : 3,
@@ -1279,9 +1639,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1940,
   "volume" : 4,
@@ -1291,9 +1651,9 @@
   "dateTo" : "1940-10-01",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007918-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1940,
   "volume" : 5,
@@ -1303,9 +1663,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1940,
   "volume" : 6,
@@ -1315,9 +1675,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1941,
   "volume" : 0,
@@ -1327,9 +1687,9 @@
   "dateTo" : "1941-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1941,
   "volume" : 1,
@@ -1339,9 +1699,9 @@
   "dateTo" : "1941-03-12",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007919-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1941,
   "volume" : 2,
@@ -1351,9 +1711,9 @@
   "dateTo" : "1941-06-11",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007920-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1941,
   "volume" : 3,
@@ -1363,9 +1723,9 @@
   "dateTo" : "1941-09-15",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007921-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1941,
   "volume" : 4,
@@ -1375,9 +1735,9 @@
   "dateTo" : "1941-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007922-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1942,
   "volume" : 0,
@@ -1387,9 +1747,9 @@
   "dateTo" : "1942-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1942,
   "volume" : 1,
@@ -1399,9 +1759,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1942,
   "volume" : 2,
@@ -1411,9 +1771,9 @@
   "dateTo" : "1942-06-04",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007923-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1942,
   "volume" : 3,
@@ -1423,9 +1783,9 @@
   "dateTo" : "1942-09-08",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007924-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1942,
   "volume" : 4,
@@ -1435,9 +1795,9 @@
   "dateTo" : "1942-11-17",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007925-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1942,
   "volume" : 5,
@@ -1447,9 +1807,9 @@
   "dateTo" : "1942-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007926-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1943,
   "volume" : 0,
@@ -1459,9 +1819,9 @@
   "dateTo" : "1943-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1943,
   "volume" : 1,
@@ -1471,9 +1831,9 @@
   "dateTo" : "1943-03-23",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007927-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1943,
   "volume" : 2,
@@ -1483,9 +1843,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1943,
   "volume" : 3,
@@ -1495,9 +1855,9 @@
   "dateTo" : "1943-08-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007928-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1943,
   "volume" : 4,
@@ -1507,9 +1867,9 @@
   "dateTo" : "1943-11-17",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007929-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1943,
   "volume" : 5,
@@ -1519,9 +1879,9 @@
   "dateTo" : "1943-12-31",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007930-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1944,
   "volume" : 0,
@@ -1531,9 +1891,9 @@
   "dateTo" : "1944-12-31",
   "url" : "https://bip.um.wroc.pl/",
   "note" : null,
+  "mainRegister" : true,
   "missing" : false,
-  "online" : false,
-  "mainRegister" : true
+  "online" : false
 }, {
   "year" : 1944,
   "volume" : 1,
@@ -1543,9 +1903,9 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 }, {
   "year" : 1944,
   "volume" : 2,
@@ -1555,9 +1915,9 @@
   "dateTo" : "1944-04-25",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007931-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1944,
   "volume" : 3,
@@ -1567,9 +1927,9 @@
   "dateTo" : "1944-07-07",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007932-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1944,
   "volume" : 4,
@@ -1579,9 +1939,9 @@
   "dateTo" : "1944-10-02",
   "url" : "https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007933-00001",
   "note" : null,
+  "mainRegister" : false,
   "missing" : false,
-  "online" : true,
-  "mainRegister" : false
+  "online" : true
 }, {
   "year" : 1944,
   "volume" : 5,
@@ -1591,7 +1951,7 @@
   "dateTo" : null,
   "url" : null,
   "note" : null,
+  "mainRegister" : false,
   "missing" : true,
-  "online" : false,
-  "mainRegister" : false
+  "online" : false
 } ]
