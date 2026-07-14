@@ -187,7 +187,7 @@
 | 
 | 1-?
 | ?-?
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373878 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373877 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" |
 |-
 ! colspan="8"|
@@ -196,7 +196,7 @@
 | 1
 | 1-600
 | 02.01.-06.07.
-| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373877 Staatsarchiv Breslau]
+| [https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/28373878 Staatsarchiv Breslau]
 | 1-600
 | 02.01.-06.07.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007954-00001 Ancestry]
