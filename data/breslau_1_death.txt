@@ -3014,555 +3014,577 @@
 |-
 ! colspan="8"|
 |-
-! rowspan="7"|1931
+! rowspan="4"|1931
 | 1
-| colspan="3" |
+| 1-387
+| 01.01.-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340860 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
-| colspan="3" |
+| 388-773
+| ?-16.05.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340861 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 3
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 4
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 5
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
-| ?-?
-| 01.01.-16.05.
-| Standesamt Breslau
-| colspan="3" |
-|-
-| 
-| ?-?
-| 18.11.-31.12.
-| Standesamt Breslau
-| colspan="3" |
 |-
 ! colspan="8"|
 |-
-! rowspan="6"|1932
+! rowspan="5"|1932
 | 1
-| colspan="3" |
+| 1-395
+| 01.01.-14.03.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340863 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1-395
 | 01.01.-14.03.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007546-00001 Ancestry]
 |-
 | 2
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 396-785
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340864 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 3
-| colspan="3" |
+| 786-1175
+| 23.05.-20.08.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340865 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 786-1175
 | 23.05.-20.08.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007547-00001 Ancestry]
 |-
 | 4
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1176-1563
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340866 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 5
-| colspan="3" |
-| colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
+| 1564-1753
 | ?-?
-| 01.01.-31.12.
-| Standesamt Breslau
-| colspan="3" |
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340867 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 ! colspan="8"|
 |-
-! rowspan="6"|1933
+! rowspan="5"|1933
 | 1
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
-| colspan="3" |
+| 392-787
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340868 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 3
-| colspan="3" |
+| 788-1179
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340869 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 4
-| colspan="3" |
+| 1180-1569
+| ?-20.11.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340870 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 5
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
-| ?-?
-| 01.01.-20.11.
-| Standesamt Breslau
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 ! colspan="8"|
 |-
-! rowspan="6"|1934
+! rowspan="5"|1934
 | 1
-| colspan="3" |
+| 1-395
+| 01.01.-19.03.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340871 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1-395
 | 01.01.-19.03.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007548-00001 Ancestry]
 |-
 | 2
-| colspan="3" |
+| 396-785
+| 19.03.-09.06.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340872 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 396-785
 | 19.03.-09.06.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007549-00001 Ancestry]
 |-
 | 3
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 786-1173
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340873 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 4
-| colspan="3" |
+| 1174-1563
+| 12.09.-08.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340874 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1174-1563
 | 12.09.-08.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007550-00001 Ancestry]
 |-
 | 5
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
+| 1564-1668
 | ?-?
-| 01.01.-31.12.
-| Standesamt Breslau
-| colspan="3" |
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340875 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 ! colspan="8"|
 |-
-! rowspan="6"|1935
+! rowspan="5"|1935
 | 1
-| colspan="3" |
+| 1-395
+| 02.01.-16.03.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340876 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1-395
 | 02.01.-16.03.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007551-00001 Ancestry]
 |-
 | 2
-| colspan="3" |
+| 396-779
+| 16.03.-31.05.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340877 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 396-779
 | 16.03.-31.05.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007552-00001 Ancestry]
 |-
 | 3
-| colspan="3" |
+| 780-1165
+| 31.05.-06.09.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340878 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 780-1165
 | 31.05.-06.09.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007553-00001 Ancestry]
 |-
 | 4
-| colspan="3" |
+| 1166-1555
+| 07.09.-03.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340879 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1166-1555
 | 07.09.-03.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007554-00001 Ancestry]
 |-
 | 5
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
+| 1556-1688
 | ?-?
-| 01.01.-31.12.
-| Standesamt Breslau
-| colspan="3" |
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340880 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 ! colspan="8"|
 |-
-! rowspan="7"|1936
+! rowspan="5"|1936
 | 1
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 3
-| colspan="3" |
+| 780-1155
+| 11.06.-15.09.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340881 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 780-1155
 | 11.06.-15.09.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007555-00001 Ancestry]
 |-
 | 4
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 5
-| colspan="3" |
+| 1544-1636
+| 16.12.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340882 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1544-1636
 | 16.12.-31.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007556-00001 Ancestry]
 |-
-| 
-| ?-?
-| 11.06.-15.09.
-| Standesamt Breslau
-| colspan="3" |
-|-
-| 
-| ?-?
-| 16.12.-31.12.
-| Standesamt Breslau
-| colspan="3" |
-|-
 ! colspan="8"|
 |-
-! rowspan="7"|1937
+! rowspan="5"|1937
 | 1
-| colspan="3" |
+| 1-389
+| 01.01.-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340883 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1-389
 | 01.01.-13.03.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007557-00001 Ancestry]
 |-
 | 2
-| colspan="3" |
+| 390-775
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340884 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 390-775
 | 13.03.-07.06.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007558-00001 Ancestry]
 |-
 | 3
-| colspan="3" |
+| 776-1149
+| ?-06.09.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340885 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 776-1149
 | 08.06.-06.09.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007559-00001 Ancestry]
 |-
 | 4
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 5
-| colspan="3" |
+| 1540-1667
+| 06.12.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340886 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1540-1667
 | 06.12.-31.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007560-00001 Ancestry]
-|-
-| 
-| ?-?
-| 01.01.-06.09.
-| Standesamt Breslau
-| colspan="3" |
-|-
-| 
-| ?-?
-| 06.12.-31.12.
-| Standesamt Breslau
-| colspan="3" |
 |-
 ! colspan="8"|
 |-
 ! rowspan="6"|1938
 | 1
-| colspan="3" |
+| 1-379
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340887 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
-| colspan="3" |
+| 380-737
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340888 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 380-735
 | 15.03.-30.05.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007561-00001 Ancestry]
 |-
 | 3
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 736-884
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340889 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 4
-| colspan="3" |
+| 885-1264
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340890 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 885-1264
 | 01.07.-05.10.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007562-00001 Ancestry]
 |-
 | 5
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
+| 1265-1652
 | ?-?
-| 01.01.-31.12.
-| Standesamt Breslau
-| colspan="3" |
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340891 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+|-
+| 6
+| 1619-1703
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340893 Staatsarchiv Breslau]<br><i>noch nicht online</i>
+| 1653-1703
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340892 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 ! colspan="8"|
 |-
-! rowspan="7"|1939
+! rowspan="6"|1939
 | 1
-| colspan="3" |
+| 1-346
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340894 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1-380
 | 02.01.-10.03.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007563-00001 Ancestry]
 |-
 | 2
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 381-764
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340895 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 3
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 765-1132
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340896 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 4
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1133-1413
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340897 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 5
-| colspan="3" |
+| 1414-1711
+| 02.10.-16.11.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340898 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1414-1711
 | 02.10.-16.11.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007564-00001 Ancestry]
 |-
 | 6
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
+| 1712-2001
 | ?-?
-| 01.01.-31.12.
-| Standesamt Breslau
-| colspan="3" |
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340899 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 ! colspan="8"|
 |-
-! rowspan="8"|1940
+! rowspan="7"|1940
 | 1
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1-400
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340900 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 2
-| colspan="3" |
+| 401-800
+| 16.02.-09.04.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340901 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 401-800
 | 16.02.-09.04.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007565-00001 Ancestry]
 |-
 | 3
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 801-1200
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340902 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 4
-| colspan="3" |
+| 1201-1600
+| 01.06.-14.08.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340903 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1201-1600
 | 01.06.-14.08.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007566-00001 Ancestry]
 |-
 | 5
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1601-2000
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340904 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 6
-| colspan="3" |
+| 2001-2300
+| 17.10.-05.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340905 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 2001-2300
 | 17.10.-05.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007567-00001 Ancestry]
 |-
 | 7
-| colspan="3" |
+| 2301-2500
+| 05.12.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340906 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 2301-2500
 | 05.12.-31.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007568-00001 Ancestry]
 |-
-| 
-| ?-?
-| 01.01.-31.12.
-| Standesamt Breslau
-| colspan="3" |
-|-
 ! colspan="8"|
 |-
-! rowspan="8"|1941
+! rowspan="7"|1941
 | 1
-| colspan="3" |
+| 1-400
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340907 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 401-800
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340908 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 3
-| colspan="3" |
+| 801-1200
+| 02.04.-23.05.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340909 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 801-1200
 | 02.04.-23.05.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007569-00001 Ancestry]
 |-
 | 4
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1201-1600
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340910 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 5
-| colspan="3" |
+| 1601-2000
+| 25.07.-27.09.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340911 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1601-2000
 | 25.07.-27.09.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007570-00001 Ancestry]
 |-
 | 6
-| colspan="3" |
+| 2001-2400
+| 29.09.-29.11.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340912 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 2001-2400
 | 29.09.-29.11.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007571-00001 Ancestry]
 |-
 | 7
-| colspan="3" |
+| 2401-2622
+| 29.11.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340913 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 2401-2622
 | 29.11.-31.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007572-00001 Ancestry]
 |-
-| 
-| ?-?
-| 01.01.-31.12.
-| Standesamt Breslau
-| colspan="3" |
-|-
 ! colspan="8"|
 |-
-! rowspan="8"|1942
+! rowspan="7"|1942
 | 1
-| colspan="3" |
+| 1-400
+| 02.01.-14.02.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340914 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1-400
 | 02.01.-14.02.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007573-00001 Ancestry]
 |-
 | 2
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 401-800
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340915 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 3
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 801-1200
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340916 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 4
-| colspan="3" |
+| 1201-1600
+| 30.05.-24.07.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340917 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 1201-1600
 | 30.05.-24.07.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007574-00001 Ancestry]
 |-
 | 5
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1601-2000
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340918 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 6
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 2001-2400
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340919 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 7
-| colspan="3" |
+| 2401-2763
+| 13.11.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340920 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 2401-2763
 | 13.11.-31.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007575-00001 Ancestry]
 |-
-| 
-| ?-?
-| 01.01.-31.12.
-| Standesamt Breslau
-| colspan="3" |
-|-
 ! colspan="8"|
 |-
-! rowspan="10"|1943
+! rowspan="8"|1943
 | 1
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1-400
+| 01.01.-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340921 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 2
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 401-800
+| ?-?
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340922 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 3
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 4
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
+| 1201-1600
+| ?-12.07.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340923 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 | 5
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 6
-| colspan="3" |
+| 2001-2400
+| 01.09.-22.10.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340924 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 2001-2400
 | 01.09.-22.10.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007576-00001 Ancestry]
 |-
 | 7
-| colspan="3" |
+| 2401-2700
+| 22.10.-01.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340925 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | 2401-2700
 | 22.10.-01.12.
 | [https://www.ancestry.de/imageviewer/collections/60749/images/42895_srep100%5E007577-00001 Ancestry]
 |-
 | 8
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
-| ?-?
-| 01.01.-12.07.
-| Standesamt Breslau
-| colspan="3" |
-|-
-| 
-| ?-?
-| 01.09.-31.12.
-| Standesamt Breslau
-| colspan="3" |
+| 2701-2957
+| ?-31.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340926 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 |-
 ! colspan="8"|
 |-
-! rowspan="10"|1944
+! rowspan="8"|1944
 | 1
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 2
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 3
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 4
-| colspan="3" |
+| 1601-2000
+| 14.07.-08.09.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340927 Staatsarchiv Breslau]<br><i>noch nicht online</i>
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 5
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 6
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 7
-| colspan="3" |
+| 2701-2772
+| 19.12.-31.12.
+| [https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/44340928 Staatsarchiv Breslau]<br>2701-2702,2709-2716,2719-2772
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 | 8
-| colspan="3" |
 | colspan="3" style="background-color:#DCDCDC;"|fehlt
-|-
-| 
-| ?-?
-| 14.07.-08.09.
-| Standesamt Breslau
-| colspan="3" |
-|-
-| 
-| ?-?
-| 19.12.-31.12.
-| Standesamt Breslau
-| colspan="3" |
+| colspan="3" style="background-color:#DCDCDC;"|fehlt
 |-
 ! colspan="8"|
 |-
